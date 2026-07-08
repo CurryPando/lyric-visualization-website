@@ -83,8 +83,8 @@ export default function Predictor() {
 
       {prediction && (
         <div style={{ marginTop: '20px', padding: '16px', backgroundColor: '#f3f4f6', borderRadius: '6px' }}>
-          <h3 style={{ marginTop: 0 }}>Model Output:</h3>
-          <pre style={{ whiteSpace: 'pre-wrap', wordBreak: 'break-word', margin: 0 }}>
+          <h3 style={{ marginTop: 0, color: '#000000' }}>Model Output:</h3>
+          <pre style={{ whiteSpace: 'pre-wrap', wordBreak: 'break-word', margin: 0, color: '#000000' }}>
             {JSON.stringify(prediction, null, 2)}
           </pre>
         </div>
