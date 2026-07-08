@@ -27,6 +27,8 @@ export default async function handler(req: Request): Promise<Response> {
       return new Response(JSON.stringify({ error: 'Modal credentials are not properly configured' }), { status: 500 });
     }
 
+    console.log(`Forwarding text to Modal: ${text}`);
+
     // 4. Forward the payload to Modal
     const modalResponse = await fetch(MODAL_URL, {
       method: 'POST',
@@ -36,6 +38,8 @@ export default async function handler(req: Request): Promise<Response> {
       },
       body: JSON.stringify({ text: text }),
     });
+
+    console.log(`Received response from Modal with status: ${modalResponse.status}`);
 
     if (!modalResponse.ok) {
       throw new Error(`Modal API responded with status ${modalResponse.status}`);

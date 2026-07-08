@@ -28,12 +28,14 @@ export default function Predictor() {
       const data = await response.json();
 
       if (!response.ok) {
+        console.error(data.error || 'Something went wrong running inference.');
         throw new Error(data.error || 'Something went wrong running inference.');
       }
 
       // Set your result state (adjust 'data.prediction' depending on your exact Modal output schema)
       setPrediction(data);
     } catch (err: any) {
+      console.error(err.message);
       setError(err.message);
     } finally {
       setLoading(false);
