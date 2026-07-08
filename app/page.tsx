@@ -1,4 +1,4 @@
-// App.jsx (or Predictor.jsx)
+'use client';
 import React, { useState } from 'react';
 
 export default function Predictor() {
