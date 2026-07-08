@@ -1,3 +1,12 @@
+import { Ratelimit } from "@upstash/ratelimit"
+import { Redis } from "@upstash/redis"
+
+const ratelimit = new Ratelimit({
+  redis: Redis.fromEnv(),
+  limiter: Ratelimit.slidingWindow(5, '1 m'), // Limit 5 per minute
+  analytics: true,
+})
+
 export const config = {
   runtime: 'edge',
 };
@@ -9,6 +18,24 @@ export default async function handler(req: Request): Promise<Response> {
       status: 405,
       headers: { 'Content-Type': 'application/json' },
     });
+  }
+
+  const ip = req.headers.get('x-forwarded-for') ?? "127.0.0.1";
+
+  const { success, limit, remaining, reset } = await ratelimit.limit(ip);
+  if (!success) {
+    return new Response(
+      JSON.stringify({ error: 'Too many requests. Please slow down.' }),
+      {
+        status: 429,
+        headers: {
+          'Content-Type': 'application/json',
+          'X-RateLimit-Limit': limit.toString(),
+          'X-RateLimit-Remaining': remaining.toString(),
+          'X-RateLimit-Reset': reset.toString()
+        }
+      }
+    );
   }
 
   try {
