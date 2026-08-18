@@ -5,19 +5,20 @@ import { usePathname } from 'next/navigation';
 
 const links = [
   { href: '/', label: 'Artist Predictor' },
-  { href: '/umap', label: 'Lyrics Map' },
+  { href: '/umap', label: 'Cluster Explorer' },
+  { href: '/similar', label: 'Similar Songs' },
 ];
 
 export default function SiteNav() {
   const pathname = usePathname();
 
   return (
-    <nav className="border-b border-black/10 bg-white/80 backdrop-blur dark:border-white/10 dark:bg-black/30">
+    <nav className="border-b-2 border-black/15 bg-background">
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-4">
-        <Link href="/" className="text-sm font-semibold tracking-[0.24em] uppercase">
+        <Link href="/" className="font-[family-name:var(--font-display)] text-lg font-semibold tracking-wide">
           Lyric Categorizer
         </Link>
-        <div className="flex items-center gap-2 rounded-full border border-black/10 bg-black/5 p-1 dark:border-white/10 dark:bg-white/5">
+        <div className="flex items-center gap-1">
           {links.map((link) => {
             const isActive = pathname === link.href;
 
@@ -25,10 +26,10 @@ export default function SiteNav() {
               <Link
                 key={link.href}
                 href={link.href}
-                className={`rounded-full px-4 py-2 text-sm font-medium transition ${
+                className={`border-b-2 px-4 py-2 text-sm font-medium transition ${
                   isActive
-                    ? 'bg-black text-white dark:bg-white dark:text-black'
-                    : 'text-black/70 hover:bg-black/8 hover:text-black dark:text-white/70 dark:hover:bg-white/10 dark:hover:text-white'
+                    ? 'border-accent text-accent'
+                    : 'border-transparent text-black/60 hover:border-black/20 hover:text-black'
                 }`}
               >
                 {link.label}

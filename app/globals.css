@@ -1,22 +1,21 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f3f6fb;
-  --foreground: #111827;
+  --background: #e8dcc2;
+  --foreground: #2b1d12;
+  --accent: #b5651d;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #09111f;
-    --foreground: #eff6ff;
-  }
+  --color-accent: var(--accent);
+  --font-sans: var(--font-body);
+  --font-mono: var(--font-body);
+  /* repurpose the black/white scale so every existing bg-black/text-white/border-white
+     utility across the app renders as ink-on-parchment instead of true black/white */
+  --color-black: #2b1d12;
+  --color-white: #f6ecd8;
 }
 
 * {
@@ -28,10 +27,15 @@ html {
 }
 
 body {
-  background: var(--background);
+  background-color: var(--background);
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='140'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix type='saturate' values='0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)' opacity='0.05'/></svg>");
   color: var(--foreground);
-  font-family: var(--font-geist-sans), sans-serif;
+  font-family: var(--font-body), sans-serif;
   min-height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display), serif;
 }
 
 a {

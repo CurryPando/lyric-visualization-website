@@ -1,0 +1,8855 @@
+[
+  {
+    "id": "0",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 140627,
+    "keywords": [
+      "know",
+      "love",
+      "like",
+      "just",
+      "got",
+      "let",
+      "time",
+      "baby",
+      "want",
+      "cause",
+      "say",
+      "feel",
+      "way",
+      "make",
+      "come",
+      "need",
+      "right",
+      "tell",
+      "away",
+      "la"
+    ],
+    "closest_to_centroid_song_ids": [
+      3136960,
+      2343465,
+      5277393
+    ],
+    "most_viewed_song_ids": [
+      2949128,
+      727466,
+      1063
+    ],
+    "name": "Emotional Alternative Love Songs"
+  },
+  {
+    "id": "1",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 50262,
+    "keywords": [
+      "like",
+      "got",
+      "know",
+      "bitch",
+      "just",
+      "nigga",
+      "fuck",
+      "shit",
+      "niggas",
+      "make",
+      "cause",
+      "man",
+      "money",
+      "love",
+      "want",
+      "say",
+      "let",
+      "em",
+      "time",
+      "baby"
+    ],
+    "closest_to_centroid_song_ids": [
+      492807,
+      2837080,
+      2881485
+    ],
+    "most_viewed_song_ids": [
+      3039923,
+      3315890,
+      3244990
+    ],
+    "name": "Profane Braggadocio Rap"
+  },
+  {
+    "id": "10",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 6361,
+    "keywords": [
+      "nie",
+      "si\u0119",
+      "jak",
+      "mnie",
+      "\u017ce",
+      "jest",
+      "ju\u017c",
+      "tylko",
+      "mam",
+      "jestem",
+      "mi",
+      "wszystko",
+      "za",
+      "tak",
+      "bo",
+      "ja",
+      "dla",
+      "gdy",
+      "czy",
+      "tu"
+    ],
+    "closest_to_centroid_song_ids": [
+      2879319,
+      4249964,
+      682534
+    ],
+    "most_viewed_song_ids": [
+      3598409,
+      3113072,
+      6652096
+    ],
+    "name": "Polski Trap: Ucieczka i Autodestrukcja"
+  },
+  {
+    "id": "11",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 5891,
+    "keywords": [
+      "love",
+      "god",
+      "lord",
+      "jesus",
+      "know",
+      "come",
+      "let",
+      "like",
+      "heart",
+      "just",
+      "sing",
+      "christmas",
+      "life",
+      "praise",
+      "want",
+      "way",
+      "la",
+      "need",
+      "glory",
+      "say"
+    ],
+    "closest_to_centroid_song_ids": [
+      1849129,
+      445806,
+      2006423
+    ],
+    "most_viewed_song_ids": [
+      1859933,
+      1860079,
+      204233
+    ],
+    "name": "Christian Praise & Worship Songs"
+  },
+  {
+    "id": "12",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 5573,
+    "keywords": [
+      "sa",
+      "ang",
+      "di",
+      "hai",
+      "ko",
+      "ka",
+      "kau",
+      "ng",
+      "aku",
+      "tu",
+      "mo",
+      "yang",
+      "tak",
+      "ku",
+      "ke",
+      "lang",
+      "mein",
+      "ako",
+      "main",
+      "tere"
+    ],
+    "closest_to_centroid_song_ids": [
+      1335601,
+      1353343,
+      4854597
+    ],
+    "most_viewed_song_ids": [
+      3246067,
+      3364142,
+      3209288
+    ],
+    "name": "Filipino OPM Love Ballads"
+  },
+  {
+    "id": "13",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 5189,
+    "keywords": [
+      "bu",
+      "bir",
+      "bi",
+      "yok",
+      "ben",
+      "\u062a\u0648",
+      "ne",
+      "da",
+      "beni",
+      "\u06a9\u0647",
+      "gibi",
+      "var",
+      "sen",
+      "benim",
+      "\u00e7ok",
+      "bana",
+      "ya",
+      "de\u011fil",
+      "hi\u00e7",
+      "hep"
+    ],
+    "closest_to_centroid_song_ids": [
+      3874861,
+      5816613,
+      3930137
+    ],
+    "most_viewed_song_ids": [
+      3105009,
+      3194991,
+      4069574
+    ],
+    "name": "Yaral\u0131 \u015eehirler"
+  },
+  {
+    "id": "14",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 3836,
+    "keywords": [
+      "\u03c4\u03bf",
+      "\u03bd\u03b1",
+      "da",
+      "je",
+      "\u03bc\u03bf\u03c5",
+      "se",
+      "\u03b4\u03b5\u03bd",
+      "\u03ba\u03b1\u03b9",
+      "mi",
+      "ti",
+      "\u03bc\u03b5",
+      "\u03c4\u03b1",
+      "ne",
+      "s\u0103",
+      "si",
+      "\u03c3\u03c4\u03bf",
+      "ja",
+      "\u0219i",
+      "\u03b8\u03b1",
+      "sve"
+    ],
+    "closest_to_centroid_song_ids": [
+      4908584,
+      4889678,
+      2852798
+    ],
+    "most_viewed_song_ids": [
+      3113061,
+      3381657,
+      4835921
+    ],
+    "name": "Balkan Street Hustle Rap"
+  },
+  {
+    "id": "15",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 3007,
+    "keywords": [
+      "que",
+      "eu",
+      "n\u00e3o",
+      "pra",
+      "se",
+      "s\u00f3",
+      "um",
+      "meu",
+      "com",
+      "minha",
+      "mas",
+      "quem",
+      "da",
+      "te",
+      "mais",
+      "vou",
+      "t\u00e1",
+      "vai",
+      "em",
+      "voc\u00ea"
+    ],
+    "closest_to_centroid_song_ids": [
+      5804626,
+      3911914,
+      3319659
+    ],
+    "most_viewed_song_ids": [
+      3687982,
+      2954188,
+      2956028
+    ],
+    "name": "Rap de Rua e Ascens\u00e3o"
+  },
+  {
+    "id": "16",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 2789,
+    "keywords": [
+      "ik",
+      "je",
+      "niet",
+      "een",
+      "het",
+      "die",
+      "en",
+      "maar",
+      "op",
+      "voor",
+      "ben",
+      "met",
+      "dat",
+      "als",
+      "ze",
+      "heb",
+      "van",
+      "geen",
+      "jij",
+      "mij"
+    ],
+    "closest_to_centroid_song_ids": [
+      2882787,
+      4485663,
+      3175433
+    ],
+    "most_viewed_song_ids": [
+      741839,
+      1472048,
+      3092931
+    ],
+    "name": "Dutch Street Rap: Money, Crime & Ambition"
+  },
+  {
+    "id": "17",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 161,
+    "keywords": [
+      "know",
+      "da",
+      "wait",
+      "away",
+      "say",
+      "like",
+      "just",
+      "look",
+      "time",
+      "man",
+      "new",
+      "let",
+      "room",
+      "shot",
+      "right",
+      "need",
+      "sir",
+      "satisfied",
+      "world",
+      "make"
+    ],
+    "closest_to_centroid_song_ids": [
+      2314493,
+      55244,
+      2879951
+    ],
+    "most_viewed_song_ids": [
+      2314493,
+      2314656,
+      2300382
+    ],
+    "name": "Hamilton\u2019s \u201cAlexander Hamilton\u201d Opening Number Covers"
+  },
+  {
+    "id": "2",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 37258,
+    "keywords": [
+      "like",
+      "got",
+      "know",
+      "nigga",
+      "just",
+      "shit",
+      "bitch",
+      "niggas",
+      "fuck",
+      "cause",
+      "man",
+      "let",
+      "make",
+      "em",
+      "love",
+      "say",
+      "time",
+      "want",
+      "money",
+      "come"
+    ],
+    "closest_to_centroid_song_ids": [
+      4866910,
+      2300975,
+      3853916
+    ],
+    "most_viewed_song_ids": [
+      235729,
+      5832126,
+      2845980
+    ],
+    "name": "Hardcore Street Trap Anthems"
+  },
+  {
+    "id": "3",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 18968,
+    "keywords": [
+      "la",
+      "les",
+      "le",
+      "est",
+      "pas",
+      "dans",
+      "et",
+      "tu",
+      "qu",
+      "des",
+      "je",
+      "que",
+      "en",
+      "ai",
+      "suis",
+      "pour",
+      "comme",
+      "qui",
+      "\u00e7a",
+      "du"
+    ],
+    "closest_to_centroid_song_ids": [
+      3227727,
+      473908,
+      143371
+    ],
+    "most_viewed_song_ids": [
+      150485,
+      266756,
+      203940
+    ],
+    "name": "French Hardcore Street Rap"
+  },
+  {
+    "id": "4",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 15034,
+    "keywords": [
+      "\u043d\u0435",
+      "\u043d\u0430",
+      "\u0442\u044b",
+      "\u043a\u0430\u043a",
+      "\u0447\u0442\u043e",
+      "\u044d\u0442\u043e",
+      "\u043c\u043d\u0435",
+      "\u043d\u043e",
+      "\u043c\u044b",
+      "\u043c\u0435\u043d\u044f",
+      "\u0442\u0430\u043a",
+      "\u0442\u043e",
+      "\u0432\u0441\u0451",
+      "\u0442\u0435\u0431\u044f",
+      "\u0434\u0430",
+      "\u043c\u043e\u0439",
+      "\u0437\u0430",
+      "\u0432\u0441\u0435",
+      "\u043f\u043e",
+      "\u0432\u0435\u0434\u044c"
+    ],
+    "closest_to_centroid_song_ids": [
+      7588880,
+      7344425,
+      2968320
+    ],
+    "most_viewed_song_ids": [
+      3233301,
+      777892,
+      4054935
+    ],
+    "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0442\u0440\u044d\u043f: \u043d\u0430\u0440\u043a\u043e\u0442\u0438\u043a\u0438 \u0438 \u0431\u0440\u0430\u0432\u0430\u0434\u0430"
+  },
+  {
+    "id": "5",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 13996,
+    "keywords": [
+      "ich",
+      "und",
+      "die",
+      "du",
+      "der",
+      "ist",
+      "nicht",
+      "wie",
+      "auf",
+      "das",
+      "ein",
+      "es",
+      "mit",
+      "sie",
+      "mir",
+      "mich",
+      "den",
+      "wir",
+      "zu",
+      "ja"
+    ],
+    "closest_to_centroid_song_ids": [
+      5004548,
+      4084414,
+      2430768
+    ],
+    "most_viewed_song_ids": [
+      4108052,
+      701172,
+      2854463
+    ],
+    "name": "Aggressiver Deutschrap: Stra\u00dfe, Gewalt & Gr\u00f6\u00dfenwahn"
+  },
+  {
+    "id": "6",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 12331,
+    "keywords": [
+      "que",
+      "la",
+      "el",
+      "en",
+      "te",
+      "lo",
+      "mi",
+      "se",
+      "es",
+      "por",
+      "t\u00fa",
+      "si",
+      "tu",
+      "los",
+      "pa",
+      "como",
+      "pero",
+      "ya",
+      "una",
+      "las"
+    ],
+    "closest_to_centroid_song_ids": [
+      4982333,
+      3741047,
+      5824790
+    ],
+    "most_viewed_song_ids": [
+      3057010,
+      2955220,
+      3627151
+    ],
+    "name": "Spanish Seductive Reggaeton & Latin Trap Romance"
+  },
+  {
+    "id": "7",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 10234,
+    "keywords": [
+      "like",
+      "love",
+      "la",
+      "ni",
+      "know",
+      "just",
+      "baby",
+      "let",
+      "anh",
+      "wa",
+      "ah",
+      "want",
+      "nae",
+      "da",
+      "\ub0b4\uac00",
+      "ga",
+      "wo",
+      "time",
+      "nan",
+      "em"
+    ],
+    "closest_to_centroid_song_ids": [
+      7170460,
+      7137792,
+      5620044
+    ],
+    "most_viewed_song_ids": [
+      6746160,
+      4161674,
+      2156489
+    ],
+    "name": "Rainy Night Fireworks of Love"
+  },
+  {
+    "id": "8",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 8545,
+    "keywords": [
+      "che",
+      "non",
+      "il",
+      "la",
+      "di",
+      "mi",
+      "come",
+      "ho",
+      "ma",
+      "se",
+      "le",
+      "ti",
+      "una",
+      "sono",
+      "io",
+      "pi\u00f9",
+      "da",
+      "tu",
+      "lo",
+      "te"
+    ],
+    "closest_to_centroid_song_ids": [
+      2385330,
+      3624957,
+      5700569
+    ],
+    "most_viewed_song_ids": [
+      2892490,
+      4606428,
+      3426904
+    ],
+    "name": "Italian Rap Defiance & Street Survival"
+  },
+  {
+    "id": "9",
+    "level": 1,
+    "parent_cluster_id": null,
+    "song_count": 7232,
+    "keywords": [
+      "det",
+      "jeg",
+      "du",
+      "jag",
+      "p\u00e5",
+      "en",
+      "vi",
+      "mig",
+      "\u00e4r",
+      "og",
+      "s\u00e5",
+      "som",
+      "har",
+      "er",
+      "med",
+      "och",
+      "ikk",
+      "ja",
+      "min",
+      "men"
+    ],
+    "closest_to_centroid_song_ids": [
+      5051996,
+      5504837,
+      5215910
+    ],
+    "most_viewed_song_ids": [
+      5281219,
+      3613564,
+      435137
+    ],
+    "name": "Nordic Ambition & Street Reflection"
+  },
+  {
+    "id": "0_0",
+    "level": 2,
+    "parent_cluster_id": "0",
+    "song_count": 33261,
+    "keywords": [
+      "know",
+      "like",
+      "love",
+      "just",
+      "time",
+      "let",
+      "got",
+      "want",
+      "come",
+      "way",
+      "away",
+      "feel",
+      "say",
+      "cause",
+      "make",
+      "la",
+      "heart",
+      "life",
+      "right",
+      "home"
+    ],
+    "closest_to_centroid_song_ids": [
+      1101370,
+      1763107,
+      4587345
+    ],
+    "most_viewed_song_ids": [
+      1237,
+      5139,
+      151355
+    ],
+    "name": "Homeward-Bound Alternative Love Songs"
+  },
+  {
+    "id": "0_1",
+    "level": 2,
+    "parent_cluster_id": "0",
+    "song_count": 20662,
+    "keywords": [
+      "like",
+      "got",
+      "just",
+      "love",
+      "know",
+      "let",
+      "time",
+      "come",
+      "man",
+      "little",
+      "la",
+      "way",
+      "baby",
+      "say",
+      "right",
+      "day",
+      "cause",
+      "make",
+      "good",
+      "want"
+    ],
+    "closest_to_centroid_song_ids": [
+      99915,
+      338074,
+      2155125
+    ],
+    "most_viewed_song_ids": [
+      1063,
+      2916639,
+      118812
+    ],
+    "name": "Reflective Songs of Lost Dreams and Disillusionment"
+  },
+  {
+    "id": "0_2",
+    "level": 2,
+    "parent_cluster_id": "0",
+    "song_count": 19846,
+    "keywords": [
+      "know",
+      "like",
+      "love",
+      "just",
+      "got",
+      "baby",
+      "let",
+      "girl",
+      "cause",
+      "want",
+      "time",
+      "need",
+      "feel",
+      "right",
+      "tell",
+      "say",
+      "make",
+      "way",
+      "think",
+      "fuck"
+    ],
+    "closest_to_centroid_song_ids": [
+      2456101,
+      6061,
+      3904492
+    ],
+    "most_viewed_song_ids": [
+      727466,
+      3003630,
+      3050777
+    ],
+    "name": "Explicit Rap Heartbreak & Lust"
+  },
+  {
+    "id": "0_3",
+    "level": 2,
+    "parent_cluster_id": "0",
+    "song_count": 19546,
+    "keywords": [
+      "just",
+      "know",
+      "like",
+      "let",
+      "time",
+      "got",
+      "life",
+      "away",
+      "love",
+      "feel",
+      "cause",
+      "world",
+      "come",
+      "want",
+      "way",
+      "make",
+      "say",
+      "won",
+      "die",
+      "right"
+    ],
+    "closest_to_centroid_song_ids": [
+      124913,
+      670230,
+      201502
+    ],
+    "most_viewed_song_ids": [
+      3082569,
+      4076367,
+      2532266
+    ],
+    "name": "Dark Descent Alternative Anguish"
+  },
+  {
+    "id": "0_4",
+    "level": 2,
+    "parent_cluster_id": "0",
+    "song_count": 18861,
+    "keywords": [
+      "know",
+      "just",
+      "love",
+      "like",
+      "cause",
+      "time",
+      "let",
+      "say",
+      "want",
+      "got",
+      "think",
+      "feel",
+      "tell",
+      "heart",
+      "way",
+      "need",
+      "make",
+      "baby",
+      "right",
+      "away"
+    ],
+    "closest_to_centroid_song_ids": [
+      6429097,
+      1852180,
+      190997
+    ],
+    "most_viewed_song_ids": [
+      4063065,
+      3219597,
+      2458848
+    ],
+    "name": "Haunted Breakups"
+  },
+  {
+    "id": "0_5",
+    "level": 2,
+    "parent_cluster_id": "0",
+    "song_count": 16378,
+    "keywords": [
+      "like",
+      "love",
+      "know",
+      "just",
+      "let",
+      "got",
+      "cause",
+      "baby",
+      "feel",
+      "want",
+      "make",
+      "la",
+      "time",
+      "come",
+      "way",
+      "need",
+      "say",
+      "right",
+      "night",
+      "heart"
+    ],
+    "closest_to_centroid_song_ids": [
+      2966710,
+      2029588,
+      3918065
+    ],
+    "most_viewed_song_ids": [
+      2949128,
+      3352793,
+      2970719
+    ],
+    "name": "Nocturnal Romantic Anthems"
+  },
+  {
+    "id": "0_6",
+    "level": 2,
+    "parent_cluster_id": "0",
+    "song_count": 11768,
+    "keywords": [
+      "love",
+      "baby",
+      "know",
+      "just",
+      "like",
+      "got",
+      "let",
+      "want",
+      "time",
+      "say",
+      "come",
+      "girl",
+      "cause",
+      "make",
+      "heart",
+      "need",
+      "way",
+      "feel",
+      "right",
+      "tell"
+    ],
+    "closest_to_centroid_song_ids": [
+      154523,
+      1313102,
+      696535
+    ],
+    "most_viewed_song_ids": [
+      77191,
+      6531412,
+      329470
+    ],
+    "name": "Tender Romantic Devotion"
+  },
+  {
+    "id": "0_7",
+    "level": 2,
+    "parent_cluster_id": "0",
+    "song_count": 305,
+    "keywords": [
+      "bir",
+      "evet",
+      "bu",
+      "i\u00e7in",
+      "seni",
+      "bebe\u011fim",
+      "beni",
+      "ama",
+      "gibi",
+      "sadece",
+      "ben",
+      "\u00e7ok",
+      "benim",
+      "senin",
+      "bana",
+      "sen",
+      "\u00e7\u00fcnk\u00fc",
+      "iyi",
+      "daha",
+      "biliyorum"
+    ],
+    "closest_to_centroid_song_ids": [
+      5360886,
+      6214542,
+      5402661
+    ],
+    "most_viewed_song_ids": [
+      460183,
+      3666443,
+      4433162
+    ],
+    "name": "Self-Sabotaging Breakup Ballads"
+  },
+  {
+    "id": "10_0",
+    "level": 2,
+    "parent_cluster_id": "10",
+    "song_count": 3166,
+    "keywords": [
+      "nie",
+      "jak",
+      "si\u0119",
+      "mnie",
+      "\u017ce",
+      "jest",
+      "mi",
+      "mam",
+      "ja",
+      "bo",
+      "tak",
+      "ju\u017c",
+      "za",
+      "tu",
+      "po",
+      "ale",
+      "tylko",
+      "ty",
+      "jestem",
+      "ma"
+    ],
+    "closest_to_centroid_song_ids": [
+      5534494,
+      3399668,
+      380604
+    ],
+    "most_viewed_song_ids": [
+      3313777,
+      2077751,
+      3620594
+    ],
+    "name": "Polski Trap: Kac, Na\u0142ogi i Brutalna Szczero\u015b\u0107"
+  },
+  {
+    "id": "10_1",
+    "level": 2,
+    "parent_cluster_id": "10",
+    "song_count": 1704,
+    "keywords": [
+      "nie",
+      "jak",
+      "si\u0119",
+      "\u017ce",
+      "jest",
+      "mnie",
+      "bo",
+      "tak",
+      "za",
+      "tu",
+      "mi",
+      "mam",
+      "po",
+      "ja",
+      "ju\u017c",
+      "ma",
+      "dla",
+      "od",
+      "ale",
+      "ty"
+    ],
+    "closest_to_centroid_song_ids": [
+      445074,
+      1743180,
+      2933990
+    ],
+    "most_viewed_song_ids": [
+      2431545,
+      327365,
+      2152343
+    ],
+    "name": "Polski Trap: \u015amier\u0107, Wina i Walka"
+  },
+  {
+    "id": "10_2",
+    "level": 2,
+    "parent_cluster_id": "10",
+    "song_count": 1491,
+    "keywords": [
+      "nie",
+      "jak",
+      "si\u0119",
+      "mnie",
+      "\u017ce",
+      "mi",
+      "jest",
+      "ja",
+      "mam",
+      "za",
+      "tak",
+      "bo",
+      "ju\u017c",
+      "tu",
+      "tylko",
+      "ale",
+      "po",
+      "jestem",
+      "ty",
+      "ma"
+    ],
+    "closest_to_centroid_song_ids": [
+      2381036,
+      5308054,
+      7606585
+    ],
+    "most_viewed_song_ids": [
+      3598409,
+      3113072,
+      6652096
+    ],
+    "name": "Pancerz, B\u00f3l i Samotno\u015b\u0107"
+  },
+  {
+    "id": "11_0",
+    "level": 2,
+    "parent_cluster_id": "11",
+    "song_count": 1621,
+    "keywords": [
+      "love",
+      "god",
+      "jesus",
+      "know",
+      "like",
+      "sing",
+      "let",
+      "heart",
+      "come",
+      "lord",
+      "life",
+      "won",
+      "good",
+      "praise",
+      "way",
+      "cause",
+      "grace",
+      "just",
+      "believe",
+      "hallelujah"
+    ],
+    "closest_to_centroid_song_ids": [
+      4802936,
+      5444692,
+      3879253
+    ],
+    "most_viewed_song_ids": [
+      3208485,
+      3125586,
+      147168
+    ],
+    "name": "Grace and Redemption Worship"
+  },
+  {
+    "id": "11_1",
+    "level": 2,
+    "parent_cluster_id": "11",
+    "song_count": 1210,
+    "keywords": [
+      "lord",
+      "god",
+      "jesus",
+      "know",
+      "just",
+      "yes",
+      "love",
+      "way",
+      "day",
+      "got",
+      "come",
+      "life",
+      "say",
+      "let",
+      "like",
+      "time",
+      "need",
+      "make",
+      "good",
+      "home"
+    ],
+    "closest_to_centroid_song_ids": [
+      1321980,
+      2044242,
+      1599741
+    ],
+    "most_viewed_song_ids": [
+      4970888,
+      1150421,
+      2421965
+    ],
+    "name": "Gospel Songs of Perseverance and Hope"
+  },
+  {
+    "id": "11_2",
+    "level": 2,
+    "parent_cluster_id": "11",
+    "song_count": 991,
+    "keywords": [
+      "god",
+      "lord",
+      "praise",
+      "jesus",
+      "holy",
+      "love",
+      "glory",
+      "hallelujah",
+      "sing",
+      "forever",
+      "king",
+      "worthy",
+      "like",
+      "great",
+      "let",
+      "come",
+      "worship",
+      "lift",
+      "heart",
+      "earth"
+    ],
+    "closest_to_centroid_song_ids": [
+      2117514,
+      1859911,
+      836902
+    ],
+    "most_viewed_song_ids": [
+      235201,
+      3981608,
+      2005834
+    ],
+    "name": "Royal Glory & Eternal Worship Anthems"
+  },
+  {
+    "id": "11_3",
+    "level": 2,
+    "parent_cluster_id": "11",
+    "song_count": 788,
+    "keywords": [
+      "love",
+      "lord",
+      "heart",
+      "want",
+      "come",
+      "jesus",
+      "let",
+      "god",
+      "need",
+      "life",
+      "just",
+      "spirit",
+      "know",
+      "like",
+      "holy",
+      "presence",
+      "place",
+      "make",
+      "glory",
+      "open"
+    ],
+    "closest_to_centroid_song_ids": [
+      1706620,
+      3228618,
+      1949190
+    ],
+    "most_viewed_song_ids": [
+      3334938,
+      2098321,
+      1311658
+    ],
+    "name": "Intimate Surrender & Holy Presence Worship"
+  },
+  {
+    "id": "11_4",
+    "level": 2,
+    "parent_cluster_id": "11",
+    "song_count": 744,
+    "keywords": [
+      "christmas",
+      "la",
+      "santa",
+      "jingle",
+      "year",
+      "merry",
+      "love",
+      "baby",
+      "claus",
+      "know",
+      "just",
+      "want",
+      "like",
+      "time",
+      "snow",
+      "ho",
+      "sleigh",
+      "bells",
+      "got",
+      "let"
+    ],
+    "closest_to_centroid_song_ids": [
+      5109185,
+      3241048,
+      1963522
+    ],
+    "most_viewed_song_ids": [
+      1859933,
+      1860079,
+      204233
+    ],
+    "name": "Christmas Classics & Holiday Cheer"
+  },
+  {
+    "id": "11_5",
+    "level": 2,
+    "parent_cluster_id": "11",
+    "song_count": 276,
+    "keywords": [
+      "pum",
+      "sing",
+      "come",
+      "born",
+      "night",
+      "christmas",
+      "let",
+      "joy",
+      "love",
+      "king",
+      "noel",
+      "world",
+      "god",
+      "jesus",
+      "christ",
+      "know",
+      "baby",
+      "la",
+      "peace",
+      "rum"
+    ],
+    "closest_to_centroid_song_ids": [
+      1853399,
+      186852,
+      758500
+    ],
+    "most_viewed_song_ids": [
+      2198790,
+      1853399,
+      1850939
+    ],
+    "name": "Christmas Hymns of Christ\u2019s Birth"
+  },
+  {
+    "id": "11_6",
+    "level": 2,
+    "parent_cluster_id": "11",
+    "song_count": 173,
+    "keywords": [
+      "tu",
+      "en",
+      "que",
+      "mi",
+      "dios",
+      "el",
+      "la",
+      "ti",
+      "amor",
+      "lo",
+      "es",
+      "cristo",
+      "te",
+      "se\u00f1or",
+      "eres",
+      "t\u00fa",
+      "por",
+      "aleluya",
+      "soy",
+      "presencia"
+    ],
+    "closest_to_centroid_song_ids": [
+      4004922,
+      1591637,
+      3025695
+    ],
+    "most_viewed_song_ids": [
+      3699768,
+      3204446,
+      3701382
+    ],
+    "name": "Spanish-Language Contemporary Worship"
+  },
+  {
+    "id": "11_7",
+    "level": 2,
+    "parent_cluster_id": "11",
+    "song_count": 88,
+    "keywords": [
+      "god",
+      "love",
+      "jesus",
+      "lord",
+      "say",
+      "come",
+      "good",
+      "know",
+      "joy",
+      "just",
+      "let",
+      "praise",
+      "yes",
+      "ready",
+      "breakthrough",
+      "great",
+      "sing",
+      "need",
+      "better",
+      "running"
+    ],
+    "closest_to_centroid_song_ids": [
+      5941926,
+      5464462,
+      5464447
+    ],
+    "most_viewed_song_ids": [
+      5464454,
+      4806600,
+      3199406
+    ],
+    "name": "Faith-Filled Breakthrough Worship"
+  },
+  {
+    "id": "12_0",
+    "level": 2,
+    "parent_cluster_id": "12",
+    "song_count": 1597,
+    "keywords": [
+      "yang",
+      "aku",
+      "kau",
+      "ku",
+      "tak",
+      "di",
+      "dan",
+      "cinta",
+      "ini",
+      "semua",
+      "kita",
+      "hati",
+      "dalam",
+      "untuk",
+      "jangan",
+      "hanya",
+      "tapi",
+      "ada",
+      "pernah",
+      "bisa"
+    ],
+    "closest_to_centroid_song_ids": [
+      756410,
+      2072026,
+      3561356
+    ],
+    "most_viewed_song_ids": [
+      3246067,
+      3338786,
+      2999185
+    ],
+    "name": "Indonesian Devoted Love Ballads"
+  },
+  {
+    "id": "12_1",
+    "level": 2,
+    "parent_cluster_id": "12",
+    "song_count": 1287,
+    "keywords": [
+      "ang",
+      "sa",
+      "ng",
+      "ako",
+      "ko",
+      "lang",
+      "mo",
+      "ka",
+      "di",
+      "ikaw",
+      "kung",
+      "ay",
+      "mga",
+      "pag",
+      "pa",
+      "ba",
+      "kahit",
+      "hindi",
+      "aking",
+      "tayo"
+    ],
+    "closest_to_centroid_song_ids": [
+      1860251,
+      1806567,
+      958643
+    ],
+    "most_viewed_song_ids": [
+      3364142,
+      3261938,
+      3577575
+    ],
+    "name": "Filipino OPM Rekindled Love Ballads"
+  },
+  {
+    "id": "12_2",
+    "level": 2,
+    "parent_cluster_id": "12",
+    "song_count": 892,
+    "keywords": [
+      "hai",
+      "mein",
+      "main",
+      "tu",
+      "dil",
+      "ho",
+      "ke",
+      "se",
+      "bhi",
+      "tere",
+      "ki",
+      "hain",
+      "jo",
+      "ye",
+      "meri",
+      "mera",
+      "ka",
+      "hum",
+      "toh",
+      "teri"
+    ],
+    "closest_to_centroid_song_ids": [
+      1940158,
+      2006509,
+      1636655
+    ],
+    "most_viewed_song_ids": [
+      1000223,
+      3732689,
+      831724
+    ],
+    "name": "Hindi Romantic Love Ballads"
+  },
+  {
+    "id": "12_3",
+    "level": 2,
+    "parent_cluster_id": "12",
+    "song_count": 800,
+    "keywords": [
+      "tu",
+      "ni",
+      "hai",
+      "tere",
+      "main",
+      "nahi",
+      "da",
+      "ke",
+      "ae",
+      "mere",
+      "di",
+      "te",
+      "ho",
+      "meri",
+      "dil",
+      "mera",
+      "naal",
+      "mein",
+      "tera",
+      "nu"
+    ],
+    "closest_to_centroid_song_ids": [
+      4806530,
+      5200147,
+      6160702
+    ],
+    "most_viewed_song_ids": [
+      3209288,
+      5630815,
+      3370759
+    ],
+    "name": "Punjabi Pop Romance"
+  },
+  {
+    "id": "12_4",
+    "level": 2,
+    "parent_cluster_id": "12",
+    "song_count": 441,
+    "keywords": [
+      "ang",
+      "sa",
+      "ko",
+      "ng",
+      "hai",
+      "ka",
+      "ako",
+      "lang",
+      "mo",
+      "mga",
+      "di",
+      "mein",
+      "nahi",
+      "se",
+      "kung",
+      "ke",
+      "ay",
+      "bhi",
+      "tu",
+      "kahit"
+    ],
+    "closest_to_centroid_song_ids": [
+      7107890,
+      5444755,
+      5213165
+    ],
+    "most_viewed_song_ids": [
+      3431422,
+      4682109,
+      3462690
+    ],
+    "name": "Filipino-Urdu Rap Braggadocio"
+  },
+  {
+    "id": "12_5",
+    "level": 2,
+    "parent_cluster_id": "12",
+    "song_count": 221,
+    "keywords": [
+      "ma",
+      "\u0986\u09ae",
+      "timi",
+      "mero",
+      "timro",
+      "\u0917\u0930",
+      "\u09ae\u09a8",
+      "ko",
+      "\u092d\u0928",
+      "tumi",
+      "ami",
+      "\u09ac\u09a8",
+      "tui",
+      "nai",
+      "maya",
+      "\u0909\u0928",
+      "lai",
+      "malai",
+      "\u092e\u0928",
+      "mon"
+    ],
+    "closest_to_centroid_song_ids": [
+      6218214,
+      2942449,
+      5282252
+    ],
+    "most_viewed_song_ids": [
+      3753456,
+      4607923,
+      3788508
+    ],
+    "name": "Nepali Romanized Love Ballads"
+  },
+  {
+    "id": "12_6",
+    "level": 2,
+    "parent_cluster_id": "12",
+    "song_count": 168,
+    "keywords": [
+      "nee",
+      "oru",
+      "naan",
+      "en",
+      "enna",
+      "ringa",
+      "vaa",
+      "penne",
+      "pulla",
+      "yen",
+      "ennai",
+      "keten",
+      "unnai",
+      "aasai",
+      "naanum",
+      "\u0b8e\u0ba9",
+      "\u00e8n",
+      "vaadi",
+      "illai",
+      "ava"
+    ],
+    "closest_to_centroid_song_ids": [
+      1948251,
+      2248976,
+      1941899
+    ],
+    "most_viewed_song_ids": [
+      4984375,
+      2120774,
+      2244463
+    ],
+    "name": "Tamil Cinema Love Songs"
+  },
+  {
+    "id": "12_7",
+    "level": 2,
+    "parent_cluster_id": "12",
+    "song_count": 167,
+    "keywords": [
+      "allah",
+      "wahe",
+      "ya",
+      "om",
+      "guru",
+      "muhammad",
+      "namah",
+      "wa",
+      "namo",
+      "shivaya",
+      "sach",
+      "ilaha",
+      "nameh",
+      "hai",
+      "love",
+      "kuja",
+      "sat",
+      "ek",
+      "waheguru",
+      "\u0627\u0644\u0644\u0647"
+    ],
+    "closest_to_centroid_song_ids": [
+      591677,
+      3651797,
+      1848361
+    ],
+    "most_viewed_song_ids": [
+      229210,
+      3459408,
+      3459476
+    ],
+    "name": "Devotional Faith and Praise Songs"
+  },
+  {
+    "id": "13_0",
+    "level": 2,
+    "parent_cluster_id": "13",
+    "song_count": 1797,
+    "keywords": [
+      "bir",
+      "bu",
+      "ben",
+      "ne",
+      "sen",
+      "beni",
+      "seni",
+      "bana",
+      "da",
+      "gibi",
+      "var",
+      "sana",
+      "yok",
+      "\u00e7ok",
+      "ki",
+      "ah",
+      "hi\u00e7",
+      "mi",
+      "gel",
+      "ama"
+    ],
+    "closest_to_centroid_song_ids": [
+      970910,
+      2194945,
+      7243829
+    ],
+    "most_viewed_song_ids": [
+      4069574,
+      3666855,
+      3492783
+    ],
+    "name": "Sana Kalan Yaralar"
+  },
+  {
+    "id": "13_1",
+    "level": 2,
+    "parent_cluster_id": "13",
+    "song_count": 1670,
+    "keywords": [
+      "bu",
+      "bi",
+      "bir",
+      "yok",
+      "da",
+      "ben",
+      "var",
+      "ne",
+      "ya",
+      "beni",
+      "ama",
+      "bana",
+      "gibi",
+      "sen",
+      "hep",
+      "de\u011fil",
+      "benim",
+      "bak",
+      "\u00e7ok",
+      "ki"
+    ],
+    "closest_to_centroid_song_ids": [
+      3874861,
+      4920037,
+      4654687
+    ],
+    "most_viewed_song_ids": [
+      3194991,
+      3583967,
+      3267725
+    ],
+    "name": "Yaral\u0131 Sokaklar\u0131n \u0130syan\u0131"
+  },
+  {
+    "id": "13_2",
+    "level": 2,
+    "parent_cluster_id": "13",
+    "song_count": 1055,
+    "keywords": [
+      "bu",
+      "bir",
+      "bi",
+      "da",
+      "ben",
+      "yok",
+      "var",
+      "ne",
+      "gibi",
+      "rap",
+      "ama",
+      "ki",
+      "sen",
+      "beni",
+      "bana",
+      "de\u011fil",
+      "ya",
+      "\u00e7ok",
+      "benim",
+      "hep"
+    ],
+    "closest_to_centroid_song_ids": [
+      3236931,
+      2479731,
+      3710917
+    ],
+    "most_viewed_song_ids": [
+      3105009,
+      3104934,
+      4281578
+    ],
+    "name": "Karanl\u0131k \u015eehir Rapleri"
+  },
+  {
+    "id": "13_3",
+    "level": 2,
+    "parent_cluster_id": "13",
+    "song_count": 379,
+    "keywords": [
+      "\u062a\u0648",
+      "\u06a9\u0647",
+      "\u06cc\u0647",
+      "\u0645\u0646",
+      "\u0627\u0632",
+      "\u0628\u0647",
+      "\u0645\u06cc",
+      "\u0631\u0648",
+      "\u0628\u0627",
+      "\u0627\u06cc\u0646",
+      "\u0647\u0645\u0647",
+      "\u062a\u0627",
+      "\u0646\u0647",
+      "\u0647\u0645",
+      "\u0645\u0627",
+      "\u062f\u06cc\u06af\u0647",
+      "\u0627\u0648\u0646",
+      "\u0648\u0644\u06cc",
+      "\u0648\u0627\u0633\u0647",
+      "\u0647\u0631"
+    ],
+    "closest_to_centroid_song_ids": [
+      3303091,
+      4907416,
+      3724907
+    ],
+    "most_viewed_song_ids": [
+      2372,
+      2991121,
+      2991142
+    ],
+    "name": "\u0633\u0631\u062f\u06cc \u0648 \u0633\u0642\u0648\u0637"
+  },
+  {
+    "id": "13_4",
+    "level": 2,
+    "parent_cluster_id": "13",
+    "song_count": 288,
+    "keywords": [
+      "bir",
+      "bu",
+      "beni",
+      "yar",
+      "da",
+      "ben",
+      "oy",
+      "vay",
+      "gel",
+      "ne",
+      "mi",
+      "sen",
+      "aman",
+      "seni",
+      "var",
+      "g\u00fclom",
+      "\u015finanay",
+      "v\u0131y",
+      "benim",
+      "gizli"
+    ],
+    "closest_to_centroid_song_ids": [
+      2065150,
+      2058413,
+      2096298
+    ],
+    "most_viewed_song_ids": [
+      2065150,
+      2066108,
+      2095664
+    ],
+    "name": "Amanl\u0131 Yar T\u00fcrk\u00fcleri"
+  },
+  {
+    "id": "1_0",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 8916,
+    "keywords": [
+      "like",
+      "bitch",
+      "got",
+      "just",
+      "know",
+      "fuck",
+      "nigga",
+      "ayy",
+      "shit",
+      "niggas",
+      "money",
+      "want",
+      "love",
+      "baby",
+      "need",
+      "make",
+      "cause",
+      "lil",
+      "gon",
+      "hit"
+    ],
+    "closest_to_centroid_song_ids": [
+      4497109,
+      3053608,
+      4292918
+    ],
+    "most_viewed_song_ids": [
+      2942139,
+      2441478,
+      2989266
+    ],
+    "name": "Hard-Hitting Trap Braggadocio"
+  },
+  {
+    "id": "1_1",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 7610,
+    "keywords": [
+      "like",
+      "got",
+      "know",
+      "just",
+      "shit",
+      "nigga",
+      "fuck",
+      "niggas",
+      "cause",
+      "man",
+      "em",
+      "let",
+      "make",
+      "time",
+      "bitch",
+      "ya",
+      "say",
+      "come",
+      "life",
+      "right"
+    ],
+    "closest_to_centroid_song_ids": [
+      492807,
+      2478097,
+      4116685
+    ],
+    "most_viewed_song_ids": [
+      207,
+      86538,
+      242093
+    ],
+    "name": "Technical Wordplay Braggadocio Rap"
+  },
+  {
+    "id": "1_10",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 1023,
+    "keywords": [
+      "like",
+      "got",
+      "wena",
+      "know",
+      "ke",
+      "just",
+      "love",
+      "shit",
+      "mina",
+      "fuck",
+      "niggas",
+      "le",
+      "khona",
+      "man",
+      "baby",
+      "nigga",
+      "ka",
+      "ng",
+      "nawe",
+      "woza"
+    ],
+    "closest_to_centroid_song_ids": [
+      3889007,
+      2900758,
+      5905839
+    ],
+    "most_viewed_song_ids": [
+      2300998,
+      2824560,
+      174059
+    ],
+    "name": "South African Multilingual Flex Rap"
+  },
+  {
+    "id": "1_11",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 329,
+    "keywords": [
+      "like",
+      "got",
+      "bitch",
+      "ayy",
+      "know",
+      "nigga",
+      "just",
+      "fuck",
+      "lyrics",
+      "shit",
+      "huh",
+      "love",
+      "snippet",
+      "niggas",
+      "let",
+      "baby",
+      "want",
+      "need",
+      "gon",
+      "cause"
+    ],
+    "closest_to_centroid_song_ids": [
+      3451791,
+      4250248,
+      4409015
+    ],
+    "most_viewed_song_ids": [
+      6337925,
+      2746878,
+      288983
+    ],
+    "name": "Snippet-Driven Trap Braggadocio"
+  },
+  {
+    "id": "1_12",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 296,
+    "keywords": [
+      "like",
+      "thaiboy",
+      "got",
+      "know",
+      "fuck",
+      "make",
+      "just",
+      "want",
+      "lean",
+      "bitch",
+      "let",
+      "drain",
+      "feel",
+      "man",
+      "money",
+      "ice",
+      "ma",
+      "life",
+      "need",
+      "gang"
+    ],
+    "closest_to_centroid_song_ids": [
+      3316355,
+      3188327,
+      2478961
+    ],
+    "most_viewed_song_ids": [
+      146963,
+      294649,
+      184659
+    ],
+    "name": "Drain Gang Icy Drug Rap"
+  },
+  {
+    "id": "1_13",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 89,
+    "keywords": [
+      "ft",
+      "drake",
+      "lil",
+      "remix",
+      "oliver",
+      "young",
+      "set",
+      "future",
+      "dj",
+      "thug",
+      "love",
+      "scott",
+      "wayne",
+      "travis",
+      "jordan",
+      "episode",
+      "kanye",
+      "woods",
+      "west",
+      "black"
+    ],
+    "closest_to_centroid_song_ids": [
+      2840710,
+      2478446,
+      2852479
+    ],
+    "most_viewed_song_ids": [
+      2983352,
+      2864119,
+      2321968
+    ],
+    "name": "OVO Sound Radio: Toronto Rap & R&B"
+  },
+  {
+    "id": "1_2",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 7571,
+    "keywords": [
+      "like",
+      "got",
+      "nigga",
+      "bitch",
+      "know",
+      "just",
+      "fuck",
+      "niggas",
+      "shit",
+      "money",
+      "make",
+      "cause",
+      "let",
+      "girl",
+      "baby",
+      "ass",
+      "love",
+      "bitches",
+      "em",
+      "want"
+    ],
+    "closest_to_centroid_song_ids": [
+      73198,
+      2881485,
+      217121
+    ],
+    "most_viewed_song_ids": [
+      3121669,
+      507478,
+      731073
+    ],
+    "name": "Cash-and-Status Flex Rap"
+  },
+  {
+    "id": "1_3",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 6768,
+    "keywords": [
+      "like",
+      "know",
+      "just",
+      "got",
+      "shit",
+      "cause",
+      "life",
+      "time",
+      "nigga",
+      "fuck",
+      "make",
+      "let",
+      "say",
+      "man",
+      "niggas",
+      "love",
+      "way",
+      "want",
+      "tell",
+      "need"
+    ],
+    "closest_to_centroid_song_ids": [
+      115817,
+      76940,
+      54411
+    ],
+    "most_viewed_song_ids": [
+      3039923,
+      3315890,
+      51899
+    ],
+    "name": "Aspirational Wordsmith Rap"
+  },
+  {
+    "id": "1_4",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 5810,
+    "keywords": [
+      "nigga",
+      "got",
+      "like",
+      "niggas",
+      "bitch",
+      "know",
+      "shit",
+      "fuck",
+      "just",
+      "gon",
+      "money",
+      "cause",
+      "em",
+      "want",
+      "love",
+      "say",
+      "make",
+      "let",
+      "lil",
+      "gang"
+    ],
+    "closest_to_centroid_song_ids": [
+      5466931,
+      651839,
+      3063370
+    ],
+    "most_viewed_song_ids": [
+      466028,
+      2890553,
+      3266784
+    ],
+    "name": "Street Survival & Gang Loyalty Rap"
+  },
+  {
+    "id": "1_5",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 3522,
+    "keywords": [
+      "like",
+      "fuck",
+      "bitch",
+      "got",
+      "shit",
+      "just",
+      "know",
+      "nigga",
+      "make",
+      "fucking",
+      "let",
+      "em",
+      "cause",
+      "niggas",
+      "want",
+      "life",
+      "time",
+      "need",
+      "ayy",
+      "say"
+    ],
+    "closest_to_centroid_song_ids": [
+      4683114,
+      447409,
+      3391535
+    ],
+    "most_viewed_song_ids": [
+      2405728,
+      2313538,
+      1429
+    ],
+    "name": "Horrorcore Satanic Violence Rap"
+  },
+  {
+    "id": "1_6",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 3297,
+    "keywords": [
+      "mi",
+      "dem",
+      "like",
+      "di",
+      "love",
+      "yuh",
+      "ah",
+      "know",
+      "dey",
+      "say",
+      "fi",
+      "baby",
+      "gyal",
+      "make",
+      "man",
+      "nuh",
+      "pon",
+      "come",
+      "girl",
+      "inna"
+    ],
+    "closest_to_centroid_song_ids": [
+      2899008,
+      2956611,
+      3376905
+    ],
+    "most_viewed_song_ids": [
+      2464123,
+      2494666,
+      171407
+    ],
+    "name": "Explicit Dancehall Seduction & Braggadocio"
+  },
+  {
+    "id": "1_7",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 1886,
+    "keywords": [
+      "like",
+      "man",
+      "got",
+      "know",
+      "just",
+      "come",
+      "make",
+      "love",
+      "tell",
+      "time",
+      "want",
+      "fuck",
+      "cause",
+      "money",
+      "niggas",
+      "say",
+      "shit",
+      "girl",
+      "let",
+      "way"
+    ],
+    "closest_to_centroid_song_ids": [
+      4845528,
+      4925619,
+      2470700
+    ],
+    "most_viewed_song_ids": [
+      3244990,
+      5113565,
+      3028677
+    ],
+    "name": "UK Road-Rap Braggadocio"
+  },
+  {
+    "id": "1_8",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 1849,
+    "keywords": [
+      "bitch",
+      "like",
+      "got",
+      "shit",
+      "fuck",
+      "know",
+      "bitches",
+      "nigga",
+      "just",
+      "money",
+      "cause",
+      "want",
+      "ass",
+      "make",
+      "niggas",
+      "pussy",
+      "let",
+      "need",
+      "em",
+      "say"
+    ],
+    "closest_to_centroid_song_ids": [
+      4706716,
+      2411712,
+      4562715
+    ],
+    "most_viewed_song_ids": [
+      4067762,
+      5545285,
+      57315
+    ],
+    "name": "Explicit Female Sexual Braggadocio Rap"
+  },
+  {
+    "id": "1_9",
+    "level": 2,
+    "parent_cluster_id": "1",
+    "song_count": 1296,
+    "keywords": [
+      "like",
+      "got",
+      "bitch",
+      "dick",
+      "fuck",
+      "just",
+      "know",
+      "minecraft",
+      "shit",
+      "ass",
+      "cause",
+      "nigga",
+      "fucking",
+      "man",
+      "make",
+      "big",
+      "let",
+      "love",
+      "want",
+      "ayy"
+    ],
+    "closest_to_centroid_song_ids": [
+      59057,
+      3253066,
+      4248992
+    ],
+    "most_viewed_song_ids": [
+      4445394,
+      590544,
+      4133841
+    ],
+    "name": "Minecraft Shock-Meme Rap"
+  },
+  {
+    "id": "2_0",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 8864,
+    "keywords": [
+      "like",
+      "got",
+      "bitch",
+      "nigga",
+      "know",
+      "niggas",
+      "fuck",
+      "shit",
+      "just",
+      "ayy",
+      "gon",
+      "money",
+      "em",
+      "let",
+      "want",
+      "lil",
+      "cause",
+      "make",
+      "say",
+      "hit"
+    ],
+    "closest_to_centroid_song_ids": [
+      5369346,
+      5569992,
+      5518081
+    ],
+    "most_viewed_song_ids": [
+      2845980,
+      3876994,
+      496445
+    ],
+    "name": "Ayy-Laced Street Flex Trap"
+  },
+  {
+    "id": "2_1",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 7274,
+    "keywords": [
+      "like",
+      "just",
+      "got",
+      "know",
+      "shit",
+      "fuck",
+      "nigga",
+      "cause",
+      "bitch",
+      "niggas",
+      "em",
+      "make",
+      "let",
+      "time",
+      "man",
+      "say",
+      "love",
+      "life",
+      "need",
+      "want"
+    ],
+    "closest_to_centroid_song_ids": [
+      3834198,
+      3076583,
+      2396114
+    ],
+    "most_viewed_song_ids": [
+      599427,
+      3106424,
+      2922155
+    ],
+    "name": "Defiant Rise and Inner Turmoil Rap"
+  },
+  {
+    "id": "2_10",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 368,
+    "keywords": [
+      "like",
+      "know",
+      "got",
+      "just",
+      "god",
+      "let",
+      "way",
+      "life",
+      "say",
+      "man",
+      "cause",
+      "em",
+      "love",
+      "need",
+      "time",
+      "make",
+      "right",
+      "lord",
+      "want",
+      "la"
+    ],
+    "closest_to_centroid_song_ids": [
+      199708,
+      123188,
+      1485042
+    ],
+    "most_viewed_song_ids": [
+      21748,
+      533418,
+      2434588
+    ],
+    "name": "Christian Street Gospel Anthems"
+  },
+  {
+    "id": "2_11",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 316,
+    "keywords": [
+      "mi",
+      "dem",
+      "yuh",
+      "di",
+      "fi",
+      "nuh",
+      "gyal",
+      "inna",
+      "like",
+      "man",
+      "ah",
+      "know",
+      "pon",
+      "say",
+      "love",
+      "weh",
+      "seh",
+      "tell",
+      "waan",
+      "come"
+    ],
+    "closest_to_centroid_song_ids": [
+      164513,
+      147561,
+      222187
+    ],
+    "most_viewed_song_ids": [
+      2880960,
+      1790573,
+      164513
+    ],
+    "name": "Explicit Dancehall Badman & Twerk Anthems"
+  },
+  {
+    "id": "2_2",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 3939,
+    "keywords": [
+      "like",
+      "got",
+      "know",
+      "niggas",
+      "just",
+      "cause",
+      "shit",
+      "nigga",
+      "man",
+      "make",
+      "let",
+      "come",
+      "fuck",
+      "ya",
+      "em",
+      "time",
+      "love",
+      "say",
+      "right",
+      "life"
+    ],
+    "closest_to_centroid_song_ids": [
+      5240,
+      953,
+      8691
+    ],
+    "most_viewed_song_ids": [
+      43,
+      75,
+      28
+    ],
+    "name": "Grimy East Coast Street Warfare"
+  },
+  {
+    "id": "2_3",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 3825,
+    "keywords": [
+      "like",
+      "know",
+      "got",
+      "baby",
+      "bitch",
+      "just",
+      "girl",
+      "love",
+      "let",
+      "nigga",
+      "make",
+      "fuck",
+      "shit",
+      "cause",
+      "want",
+      "say",
+      "need",
+      "right",
+      "tell",
+      "come"
+    ],
+    "closest_to_centroid_song_ids": [
+      152970,
+      174384,
+      104766
+    ],
+    "most_viewed_song_ids": [
+      5832126,
+      299177,
+      3095483
+    ],
+    "name": "Baby Girl Seduction Trap Anthems"
+  },
+  {
+    "id": "2_4",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 3501,
+    "keywords": [
+      "like",
+      "nigga",
+      "got",
+      "niggas",
+      "know",
+      "bitch",
+      "shit",
+      "fuck",
+      "just",
+      "money",
+      "em",
+      "man",
+      "cause",
+      "let",
+      "make",
+      "say",
+      "time",
+      "want",
+      "bitches",
+      "love"
+    ],
+    "closest_to_centroid_song_ids": [
+      120264,
+      68425,
+      66090
+    ],
+    "most_viewed_song_ids": [
+      70324,
+      177832,
+      3004837
+    ],
+    "name": "Fly-Rich Braggadocio Trap"
+  },
+  {
+    "id": "2_5",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 3465,
+    "keywords": [
+      "like",
+      "man",
+      "got",
+      "know",
+      "just",
+      "fuck",
+      "make",
+      "cause",
+      "come",
+      "shit",
+      "tryna",
+      "time",
+      "love",
+      "say",
+      "let",
+      "tell",
+      "bro",
+      "way",
+      "want",
+      "need"
+    ],
+    "closest_to_centroid_song_ids": [
+      4838162,
+      5755210,
+      6262023
+    ],
+    "most_viewed_song_ids": [
+      6720971,
+      1865962,
+      5611509
+    ],
+    "name": "UK Drill Road-Bro Anthems"
+  },
+  {
+    "id": "2_6",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 2579,
+    "keywords": [
+      "nigga",
+      "like",
+      "got",
+      "niggas",
+      "know",
+      "cause",
+      "fuck",
+      "shit",
+      "bitch",
+      "just",
+      "ya",
+      "em",
+      "let",
+      "ass",
+      "man",
+      "make",
+      "time",
+      "come",
+      "love",
+      "life"
+    ],
+    "closest_to_centroid_song_ids": [
+      62116,
+      6650,
+      2468842
+    ],
+    "most_viewed_song_ids": [
+      320,
+      243,
+      213
+    ],
+    "name": "West Coast Thug-Life G-Funk Classics"
+  },
+  {
+    "id": "2_7",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 1705,
+    "keywords": [
+      "like",
+      "just",
+      "got",
+      "know",
+      "time",
+      "let",
+      "cause",
+      "make",
+      "love",
+      "man",
+      "say",
+      "want",
+      "right",
+      "life",
+      "come",
+      "way",
+      "think",
+      "little",
+      "said",
+      "day"
+    ],
+    "closest_to_centroid_song_ids": [
+      19489,
+      7550,
+      327656
+    ],
+    "most_viewed_song_ids": [
+      7076626,
+      2415296,
+      57030
+    ],
+    "name": "Abstract Existential Underground Rap"
+  },
+  {
+    "id": "2_8",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 816,
+    "keywords": [
+      "like",
+      "nigga",
+      "got",
+      "shit",
+      "know",
+      "niggas",
+      "just",
+      "fuck",
+      "cause",
+      "bitch",
+      "let",
+      "ya",
+      "make",
+      "gon",
+      "man",
+      "said",
+      "say",
+      "time",
+      "em",
+      "right"
+    ],
+    "closest_to_centroid_song_ids": [
+      659947,
+      92105,
+      89456
+    ],
+    "most_viewed_song_ids": [
+      93539,
+      90478,
+      81159
+    ],
+    "name": "West Coast Battle Rap Showcases"
+  },
+  {
+    "id": "2_9",
+    "level": 2,
+    "parent_cluster_id": "2",
+    "song_count": 606,
+    "keywords": [
+      "like",
+      "just",
+      "got",
+      "fuck",
+      "cause",
+      "shit",
+      "know",
+      "bitch",
+      "em",
+      "let",
+      "man",
+      "say",
+      "ass",
+      "come",
+      "time",
+      "make",
+      "fuckin",
+      "bir",
+      "nigga",
+      "think"
+    ],
+    "closest_to_centroid_song_ids": [
+      129149,
+      112087,
+      866
+    ],
+    "most_viewed_song_ids": [
+      235729,
+      3958196,
+      5180439
+    ],
+    "name": "Slim Shady Horrorcore Battle Rap"
+  },
+  {
+    "id": "3_0",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 5093,
+    "keywords": [
+      "la",
+      "le",
+      "est",
+      "je",
+      "les",
+      "pas",
+      "tu",
+      "dans",
+      "et",
+      "que",
+      "ai",
+      "en",
+      "qu",
+      "des",
+      "suis",
+      "moi",
+      "pour",
+      "mon",
+      "comme",
+      "ma"
+    ],
+    "closest_to_centroid_song_ids": [
+      4991515,
+      5270512,
+      4442021
+    ],
+    "most_viewed_song_ids": [
+      150485,
+      266756,
+      203940
+    ],
+    "name": "Dark Introspective Street Rap"
+  },
+  {
+    "id": "3_1",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 5047,
+    "keywords": [
+      "la",
+      "est",
+      "les",
+      "pas",
+      "le",
+      "dans",
+      "ai",
+      "tu",
+      "des",
+      "qu",
+      "en",
+      "et",
+      "suis",
+      "que",
+      "je",
+      "pour",
+      "comme",
+      "\u00e7a",
+      "mon",
+      "du"
+    ],
+    "closest_to_centroid_song_ids": [
+      4363318,
+      4041432,
+      3612123
+    ],
+    "most_viewed_song_ids": [
+      3242364,
+      4388058,
+      2456383
+    ],
+    "name": "Argent, Violence et Survie de Rue"
+  },
+  {
+    "id": "3_10",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 44,
+    "keywords": [
+      "la",
+      "est",
+      "pas",
+      "squale",
+      "bendero",
+      "et",
+      "ai",
+      "les",
+      "il",
+      "qu",
+      "ma",
+      "tu",
+      "en",
+      "\u00e7a",
+      "des",
+      "pour",
+      "le",
+      "du",
+      "mon",
+      "dans"
+    ],
+    "closest_to_centroid_song_ids": [
+      3701222,
+      5065535,
+      3701194
+    ],
+    "most_viewed_song_ids": [
+      3276846,
+      3701196,
+      3498196
+    ],
+    "name": "La Squale\u2019s La Banane Street Tales"
+  },
+  {
+    "id": "3_2",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 2655,
+    "keywords": [
+      "la",
+      "les",
+      "le",
+      "est",
+      "pas",
+      "et",
+      "que",
+      "je",
+      "des",
+      "en",
+      "qu",
+      "dans",
+      "tu",
+      "pour",
+      "qui",
+      "ai",
+      "du",
+      "une",
+      "mon",
+      "comme"
+    ],
+    "closest_to_centroid_song_ids": [
+      150816,
+      70800,
+      50306
+    ],
+    "most_viewed_song_ids": [
+      123198,
+      2380326,
+      58273
+    ],
+    "name": "French Banlieue Social Realist Rap"
+  },
+  {
+    "id": "3_3",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 2608,
+    "keywords": [
+      "la",
+      "est",
+      "les",
+      "le",
+      "pas",
+      "et",
+      "qu",
+      "des",
+      "dans",
+      "que",
+      "je",
+      "en",
+      "tu",
+      "ai",
+      "pour",
+      "comme",
+      "qui",
+      "suis",
+      "mais",
+      "une"
+    ],
+    "closest_to_centroid_song_ids": [
+      4220525,
+      739226,
+      2394683
+    ],
+    "most_viewed_song_ids": [
+      3399990,
+      1877217,
+      2800419
+    ],
+    "name": "French Hardcore Abstract Wordplay Rap"
+  },
+  {
+    "id": "3_4",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 1391,
+    "keywords": [
+      "\u05dc\u05d0",
+      "\u0641\u064a",
+      "\u05d0\u05e0\u05d9",
+      "\u05d0\u05ea",
+      "\u0645\u0627",
+      "\u05dc\u05d9",
+      "\u05d6\u05d4",
+      "la",
+      "\u0645\u0634",
+      "\u064a\u0627",
+      "\u0645\u0646",
+      "\u05e2\u05dc",
+      "\u0623\u0646\u0627",
+      "ma",
+      "li",
+      "\u05de\u05d4",
+      "\u0639\u0644\u0649",
+      "\u05db\u05de\u05d5",
+      "\u0627\u0644\u0644\u064a",
+      "\u0644\u0627"
+    ],
+    "closest_to_centroid_song_ids": [
+      6527272,
+      5420054,
+      4713095
+    ],
+    "most_viewed_song_ids": [
+      3293401,
+      434241,
+      3112361
+    ],
+    "name": "Moroccan Darija Hardcore Rap"
+  },
+  {
+    "id": "3_5",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 973,
+    "keywords": [
+      "tu",
+      "pas",
+      "la",
+      "est",
+      "je",
+      "que",
+      "le",
+      "qu",
+      "ai",
+      "moi",
+      "les",
+      "elle",
+      "et",
+      "en",
+      "dans",
+      "toi",
+      "mais",
+      "suis",
+      "mon",
+      "ma"
+    ],
+    "closest_to_centroid_song_ids": [
+      111663,
+      720536,
+      5691466
+    ],
+    "most_viewed_song_ids": [
+      3756041,
+      147338,
+      2969229
+    ],
+    "name": "Toxic Romance & Regret Rap"
+  },
+  {
+    "id": "3_6",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 666,
+    "keywords": [
+      "\u0641\u064a",
+      "\u0645\u0627",
+      "\u0645\u0646",
+      "la",
+      "li",
+      "\u0645\u0634",
+      "\u0639\u0644\u0649",
+      "ma",
+      "\u0644\u064a",
+      "\u064a\u0627",
+      "\u0623\u0646\u0627",
+      "ghi",
+      "\u0627\u0644\u0644\u064a",
+      "\u0644\u0627",
+      "ki",
+      "\u0643\u0644",
+      "men",
+      "gha",
+      "\u063a\u064a\u0631",
+      "3la"
+    ],
+    "closest_to_centroid_song_ids": [
+      442610,
+      449685,
+      3538202
+    ],
+    "most_viewed_song_ids": [
+      4982422,
+      5341470,
+      5287729
+    ],
+    "name": "Maghrebi Hardcore Street Rap"
+  },
+  {
+    "id": "3_7",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 241,
+    "keywords": [
+      "la",
+      "pas",
+      "les",
+      "est",
+      "le",
+      "tu",
+      "\u00e7a",
+      "en",
+      "qu",
+      "des",
+      "et",
+      "dans",
+      "ai",
+      "je",
+      "suis",
+      "que",
+      "qui",
+      "fais",
+      "moi",
+      "pour"
+    ],
+    "closest_to_centroid_song_ids": [
+      7523574,
+      2282948,
+      3165432
+    ],
+    "most_viewed_song_ids": [
+      370679,
+      2861919,
+      2331453
+    ],
+    "name": "Jul\u2019s Marseille Freestyle Street Anthems"
+  },
+  {
+    "id": "3_8",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 161,
+    "keywords": [
+      "la",
+      "les",
+      "le",
+      "pas",
+      "est",
+      "dans",
+      "des",
+      "tu",
+      "que",
+      "qu",
+      "en",
+      "et",
+      "comme",
+      "du",
+      "pour",
+      "ai",
+      "suis",
+      "je",
+      "mon",
+      "sur"
+    ],
+    "closest_to_centroid_song_ids": [
+      80238,
+      2919198,
+      101826
+    ],
+    "most_viewed_song_ids": [
+      94729,
+      2824597,
+      525684
+    ],
+    "name": "Niro\u2019s Maghrebi Hardcore Anthems"
+  },
+  {
+    "id": "3_9",
+    "level": 2,
+    "parent_cluster_id": "3",
+    "song_count": 89,
+    "keywords": [
+      "la",
+      "le",
+      "les",
+      "est",
+      "dans",
+      "pas",
+      "ai",
+      "je",
+      "des",
+      "tu",
+      "en",
+      "qu",
+      "que",
+      "du",
+      "et",
+      "pour",
+      "suis",
+      "sur",
+      "hayce",
+      "ma"
+    ],
+    "closest_to_centroid_song_ids": [
+      719520,
+      431248,
+      2949782
+    ],
+    "most_viewed_song_ids": [
+      249819,
+      213810,
+      235607
+    ],
+    "name": "Hayce Lemsi Algerian Hardcore Rap"
+  },
+  {
+    "id": "4_0",
+    "level": 2,
+    "parent_cluster_id": "4",
+    "song_count": 4772,
+    "keywords": [
+      "\u043d\u0435",
+      "\u0442\u044b",
+      "\u043d\u0430",
+      "\u0447\u0442\u043e",
+      "\u043c\u043d\u0435",
+      "\u043d\u043e",
+      "\u043c\u0435\u043d\u044f",
+      "\u0442\u0435\u0431\u044f",
+      "\u043a\u0430\u043a",
+      "\u043c\u044b",
+      "\u0442\u0430\u043a",
+      "\u044d\u0442\u043e",
+      "\u0432\u0441\u0451",
+      "\u0442\u043e",
+      "\u0442\u0435\u0431\u0435",
+      "\u0432\u0441\u0435",
+      "\u043f\u043e",
+      "\u0437\u0430",
+      "\u0433\u0434\u0435",
+      "\u043d\u0435\u0442"
+    ],
+    "closest_to_centroid_song_ids": [
+      4559098,
+      4220150,
+      5078584
+    ],
+    "most_viewed_song_ids": [
+      3481512,
+      3742043,
+      3482100
+    ],
+    "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0442\u0440\u044d\u043f: \u0431\u0435\u0441\u0441\u043e\u043d\u043d\u0438\u0446\u0430 \u0438 \u043b\u044e\u0431\u043e\u0432\u043d\u0430\u044f \u0442\u043e\u0441\u043a\u0430"
+  },
+  {
+    "id": "4_1",
+    "level": 2,
+    "parent_cluster_id": "4",
+    "song_count": 3126,
+    "keywords": [
+      "\u043d\u0435",
+      "\u043d\u0430",
+      "\u0442\u044b",
+      "\u043a\u0430\u043a",
+      "\u043c\u043d\u0435",
+      "\u044d\u0442\u043e",
+      "\u0447\u0442\u043e",
+      "\u043d\u043e",
+      "\u043c\u0435\u043d\u044f",
+      "\u043c\u043e\u0439",
+      "\u044d\u0439",
+      "\u043c\u044b",
+      "\u0434\u0430",
+      "\u0442\u0430\u043a",
+      "\u043e\u043d\u0430",
+      "\u0441\u0443\u043a\u0430",
+      "\u0432\u0441\u0435",
+      "\u0432\u0441\u0451",
+      "\u0437\u0430",
+      "\u0431\u0443\u0434\u0442\u043e"
+    ],
+    "closest_to_centroid_song_ids": [
+      4286331,
+      7588880,
+      2968320
+    ],
+    "most_viewed_song_ids": [
+      4054935,
+      5405269,
+      5229002
+    ],
+    "name": "\u0411\u0443\u0434\u0442\u043e: \u043a\u043e\u043a\u0430\u0438\u043d, \u043b\u044e\u043a\u0441 \u0438 \u0431\u0440\u0430\u0432\u0430\u0434\u0430"
+  },
+  {
+    "id": "4_2",
+    "level": 2,
+    "parent_cluster_id": "4",
+    "song_count": 3018,
+    "keywords": [
+      "\u043d\u0435",
+      "\u043d\u0430",
+      "\u0442\u044b",
+      "\u043a\u0430\u043a",
+      "\u0447\u0442\u043e",
+      "\u043d\u043e",
+      "\u044d\u0442\u043e",
+      "\u043c\u043d\u0435",
+      "\u043c\u044b",
+      "\u0442\u043e",
+      "\u0437\u0430",
+      "\u0442\u0430\u043a",
+      "\u043c\u0435\u043d\u044f",
+      "\u043f\u043e",
+      "\u0442\u0435\u0431\u044f",
+      "\u0432\u0441\u0435",
+      "\u0432\u0441\u0451",
+      "\u0434\u0430",
+      "\u0438\u0437",
+      "\u043c\u043e\u0439"
+    ],
+    "closest_to_centroid_song_ids": [
+      3058426,
+      6574146,
+      3578454
+    ],
+    "most_viewed_song_ids": [
+      777892,
+      525445,
+      3813086
+    ],
+    "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0442\u0440\u044d\u043f: \u044d\u043a\u0437\u0438\u0441\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0443\u0441\u0442\u043e\u0442\u0430 \u0438 \u0441\u0430\u043c\u043e\u0440\u0430\u0441\u043f\u0430\u0434"
+  },
+  {
+    "id": "4_3",
+    "level": 2,
+    "parent_cluster_id": "4",
+    "song_count": 2669,
+    "keywords": [
+      "\u043d\u0435",
+      "\u043d\u0430",
+      "\u0442\u044b",
+      "\u043a\u0430\u043a",
+      "\u0447\u0442\u043e",
+      "\u044d\u0442\u043e",
+      "\u043d\u043e",
+      "\u043c\u043d\u0435",
+      "\u043c\u0435\u043d\u044f",
+      "\u043c\u044b",
+      "\u0442\u043e",
+      "\u043f\u043e",
+      "\u0442\u0430\u043a",
+      "\u0432\u0441\u0451",
+      "\u0437\u0430",
+      "\u0432\u0441\u0435",
+      "\u043c\u043e\u0439",
+      "\u0434\u0430",
+      "\u0438\u0437",
+      "\u043a\u0442\u043e"
+    ],
+    "closest_to_centroid_song_ids": [
+      5081409,
+      7382689,
+      5724071
+    ],
+    "most_viewed_song_ids": [
+      3372520,
+      7318135,
+      7586969
+    ],
+    "name": "\u041f\u0441\u0438\u0445\u043e\u0434\u0435\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0442\u0440\u044d\u043f: \u0442\u0440\u0438\u043f\u044b \u0438 \u0430\u0431\u0441\u0443\u0440\u0434"
+  },
+  {
+    "id": "4_4",
+    "level": 2,
+    "parent_cluster_id": "4",
+    "song_count": 1449,
+    "keywords": [
+      "\u043d\u0435",
+      "\u043d\u0430",
+      "\u043a\u0430\u043a",
+      "\u0442\u044b",
+      "\u044d\u0442\u043e",
+      "\u043c\u043d\u0435",
+      "\u0447\u0442\u043e",
+      "\u043d\u043e",
+      "\u043c\u0435\u043d\u044f",
+      "\u043c\u044b",
+      "\u044d\u0439",
+      "\u043c\u043e\u0439",
+      "\u0442\u0430\u043a",
+      "\u0434\u0430",
+      "\u0441\u0443\u043a\u0430",
+      "\u0445\u0430",
+      "\u0432\u0441\u0435",
+      "\u0432\u0441\u0451",
+      "\u043e\u043d\u0430",
+      "\u0437\u0430"
+    ],
+    "closest_to_centroid_song_ids": [
+      4988672,
+      7588910,
+      3110897
+    ],
+    "most_viewed_song_ids": [
+      3233301,
+      6726311,
+      3014630
+    ],
+    "name": "\u0422\u0440\u044d\u043f \u0441 \u0445\u0430-\u0445\u0430-\u0430\u0434\u043b\u0438\u0431\u0430\u043c\u0438"
+  },
+  {
+    "id": "5_0",
+    "level": 2,
+    "parent_cluster_id": "5",
+    "song_count": 2926,
+    "keywords": [
+      "ich",
+      "und",
+      "die",
+      "du",
+      "der",
+      "ist",
+      "wie",
+      "nicht",
+      "das",
+      "auf",
+      "mit",
+      "ein",
+      "es",
+      "den",
+      "zu",
+      "sie",
+      "mich",
+      "mir",
+      "wir",
+      "doch"
+    ],
+    "closest_to_centroid_song_ids": [
+      58274,
+      113016,
+      2439153
+    ],
+    "most_viewed_song_ids": [
+      273992,
+      56142,
+      192947
+    ],
+    "name": "Unbeugsamer Battle-Rap & Selbstbehauptung"
+  },
+  {
+    "id": "5_1",
+    "level": 2,
+    "parent_cluster_id": "5",
+    "song_count": 2738,
+    "keywords": [
+      "ich",
+      "und",
+      "du",
+      "die",
+      "nicht",
+      "ist",
+      "der",
+      "das",
+      "es",
+      "wir",
+      "mich",
+      "ein",
+      "zu",
+      "mir",
+      "auf",
+      "wie",
+      "dich",
+      "wenn",
+      "sie",
+      "den"
+    ],
+    "closest_to_centroid_song_ids": [
+      3576751,
+      7575530,
+      3026090
+    ],
+    "most_viewed_song_ids": [
+      4423776,
+      4427671,
+      245383
+    ],
+    "name": "Zwischen Jetzt, Liebe & Trennung"
+  },
+  {
+    "id": "5_2",
+    "level": 2,
+    "parent_cluster_id": "5",
+    "song_count": 2676,
+    "keywords": [
+      "ich",
+      "die",
+      "und",
+      "der",
+      "du",
+      "auf",
+      "ist",
+      "wie",
+      "mit",
+      "nicht",
+      "ein",
+      "den",
+      "das",
+      "es",
+      "im",
+      "wir",
+      "sie",
+      "f\u00fcr",
+      "mir",
+      "mein"
+    ],
+    "closest_to_centroid_song_ids": [
+      2430768,
+      4084414,
+      72571
+    ],
+    "most_viewed_song_ids": [
+      701172,
+      97581,
+      2821017
+    ],
+    "name": "Azzlack-Mentalit\u00e4t: Para, Knast & Risiko"
+  },
+  {
+    "id": "5_3",
+    "level": 2,
+    "parent_cluster_id": "5",
+    "song_count": 2485,
+    "keywords": [
+      "ich",
+      "du",
+      "und",
+      "nicht",
+      "ja",
+      "die",
+      "sie",
+      "mir",
+      "ist",
+      "mich",
+      "es",
+      "wie",
+      "dich",
+      "auf",
+      "der",
+      "ein",
+      "bin",
+      "das",
+      "mit",
+      "zu"
+    ],
+    "closest_to_centroid_song_ids": [
+      5659773,
+      5962919,
+      6256411
+    ],
+    "most_viewed_song_ids": [
+      3253867,
+      3741014,
+      4880216
+    ],
+    "name": "Drogen, Herzschmerz & toxische Beziehungen"
+  },
+  {
+    "id": "5_4",
+    "level": 2,
+    "parent_cluster_id": "5",
+    "song_count": 1760,
+    "keywords": [
+      "ich",
+      "die",
+      "und",
+      "ja",
+      "du",
+      "der",
+      "auf",
+      "ist",
+      "wie",
+      "mit",
+      "nicht",
+      "sie",
+      "ein",
+      "das",
+      "mir",
+      "es",
+      "den",
+      "wir",
+      "im",
+      "bin"
+    ],
+    "closest_to_centroid_song_ids": [
+      3999899,
+      3500714,
+      5390235
+    ],
+    "most_viewed_song_ids": [
+      4108052,
+      2854463,
+      2836161
+    ],
+    "name": "Drogenrausch, Geld & schlaflose N\u00e4chte"
+  },
+  {
+    "id": "5_5",
+    "level": 2,
+    "parent_cluster_id": "5",
+    "song_count": 1411,
+    "keywords": [
+      "ich",
+      "und",
+      "die",
+      "du",
+      "der",
+      "ist",
+      "wie",
+      "auf",
+      "mit",
+      "ein",
+      "das",
+      "nicht",
+      "den",
+      "bin",
+      "es",
+      "sie",
+      "mir",
+      "mich",
+      "im",
+      "zu"
+    ],
+    "closest_to_centroid_song_ids": [
+      96356,
+      2379398,
+      211174
+    ],
+    "most_viewed_song_ids": [
+      2471168,
+      2461560,
+      4394475
+    ],
+    "name": "Zuh\u00e4lterrap: Gewalt, Drogen & grotesker Battle-Humor"
+  },
+  {
+    "id": "6_0",
+    "level": 2,
+    "parent_cluster_id": "6",
+    "song_count": 3263,
+    "keywords": [
+      "que",
+      "la",
+      "el",
+      "te",
+      "en",
+      "mi",
+      "tu",
+      "lo",
+      "es",
+      "por",
+      "se",
+      "si",
+      "t\u00fa",
+      "amor",
+      "ya",
+      "m\u00e1s",
+      "quiero",
+      "para",
+      "una",
+      "ti"
+    ],
+    "closest_to_centroid_song_ids": [
+      2257862,
+      5005458,
+      2098246
+    ],
+    "most_viewed_song_ids": [
+      2292971,
+      3292186,
+      181439
+    ],
+    "name": "Spanish Heartbreak & Longing Ballads"
+  },
+  {
+    "id": "6_1",
+    "level": 2,
+    "parent_cluster_id": "6",
+    "song_count": 2839,
+    "keywords": [
+      "que",
+      "te",
+      "la",
+      "el",
+      "lo",
+      "en",
+      "t\u00fa",
+      "si",
+      "se",
+      "tu",
+      "mi",
+      "es",
+      "pa",
+      "por",
+      "ya",
+      "pero",
+      "quiero",
+      "baby",
+      "eh",
+      "como"
+    ],
+    "closest_to_centroid_song_ids": [
+      5577671,
+      4822065,
+      6947942
+    ],
+    "most_viewed_song_ids": [
+      3524844,
+      3106596,
+      3067667
+    ],
+    "name": "Baby-Focused Late-Night Reggaeton Desire"
+  },
+  {
+    "id": "6_2",
+    "level": 2,
+    "parent_cluster_id": "6",
+    "song_count": 2218,
+    "keywords": [
+      "que",
+      "la",
+      "el",
+      "en",
+      "lo",
+      "mi",
+      "te",
+      "es",
+      "por",
+      "si",
+      "se",
+      "los",
+      "como",
+      "pero",
+      "tu",
+      "pa",
+      "ya",
+      "las",
+      "m\u00e1s",
+      "quiero"
+    ],
+    "closest_to_centroid_song_ids": [
+      3818414,
+      4404072,
+      5794469
+    ],
+    "most_viewed_song_ids": [
+      4672107,
+      4802788,
+      3594460
+    ],
+    "name": "Spanish Street Rap & Drug-Fueled Survival Tales"
+  },
+  {
+    "id": "6_3",
+    "level": 2,
+    "parent_cluster_id": "6",
+    "song_count": 1976,
+    "keywords": [
+      "que",
+      "la",
+      "el",
+      "te",
+      "en",
+      "lo",
+      "t\u00fa",
+      "pa",
+      "se",
+      "si",
+      "los",
+      "mi",
+      "por",
+      "es",
+      "como",
+      "ah",
+      "tu",
+      "le",
+      "eh",
+      "pero"
+    ],
+    "closest_to_centroid_song_ids": [
+      5553950,
+      2952951,
+      5614078
+    ],
+    "most_viewed_song_ids": [
+      3057010,
+      2955220,
+      3627151
+    ],
+    "name": "Explicit Forbidden-Affair Reggaeton Romance"
+  },
+  {
+    "id": "6_4",
+    "level": 2,
+    "parent_cluster_id": "6",
+    "song_count": 1491,
+    "keywords": [
+      "que",
+      "la",
+      "el",
+      "en",
+      "lo",
+      "es",
+      "mi",
+      "te",
+      "se",
+      "por",
+      "los",
+      "si",
+      "como",
+      "pero",
+      "tu",
+      "pa",
+      "las",
+      "al",
+      "ya",
+      "una"
+    ],
+    "closest_to_centroid_song_ids": [
+      4855515,
+      4753326,
+      552670
+    ],
+    "most_viewed_song_ids": [
+      3275687,
+      3243053,
+      3347278
+    ],
+    "name": "Raw Introspective Spanish Rap"
+  },
+  {
+    "id": "6_5",
+    "level": 2,
+    "parent_cluster_id": "6",
+    "song_count": 544,
+    "keywords": [
+      "que",
+      "la",
+      "el",
+      "en",
+      "mi",
+      "se",
+      "lo",
+      "los",
+      "es",
+      "te",
+      "por",
+      "ya",
+      "pa",
+      "si",
+      "las",
+      "pero",
+      "bien",
+      "al",
+      "soy",
+      "como"
+    ],
+    "closest_to_centroid_song_ids": [
+      5450035,
+      4668883,
+      5419577
+    ],
+    "most_viewed_song_ids": [
+      4864448,
+      5920900,
+      5010524
+    ],
+    "name": "Corridos de Superaci\u00f3n y Lealtad"
+  },
+  {
+    "id": "7_0",
+    "level": 2,
+    "parent_cluster_id": "7",
+    "song_count": 2453,
+    "keywords": [
+      "ni",
+      "wa",
+      "wo",
+      "ga",
+      "mo",
+      "kimi",
+      "la",
+      "just",
+      "da",
+      "love",
+      "boku",
+      "nai",
+      "like",
+      "let",
+      "know",
+      "anata",
+      "kono",
+      "ah",
+      "kara",
+      "koto"
+    ],
+    "closest_to_centroid_song_ids": [
+      5830307,
+      4940121,
+      2227225
+    ],
+    "most_viewed_song_ids": [
+      4161674,
+      2156489,
+      4844784
+    ],
+    "name": "Flames of Unbreakable Bonds"
+  },
+  {
+    "id": "7_1",
+    "level": 2,
+    "parent_cluster_id": "7",
+    "song_count": 2219,
+    "keywords": [
+      "love",
+      "like",
+      "know",
+      "just",
+      "la",
+      "nae",
+      "\ub0b4\uac00",
+      "baby",
+      "day",
+      "want",
+      "time",
+      "\ub108\uc758",
+      "heart",
+      "neol",
+      "nal",
+      "let",
+      "nan",
+      "geu",
+      "\ub2e4\uc2dc",
+      "\ub108\ub97c"
+    ],
+    "closest_to_centroid_song_ids": [
+      7137792,
+      7170460,
+      3946046
+    ],
+    "most_viewed_song_ids": [
+      3821292,
+      4172920,
+      3788502
+    ],
+    "name": "Rain-Soaked Memories"
+  },
+  {
+    "id": "7_2",
+    "level": 2,
+    "parent_cluster_id": "7",
+    "song_count": 1897,
+    "keywords": [
+      "love",
+      "like",
+      "baby",
+      "la",
+      "know",
+      "ah",
+      "just",
+      "want",
+      "let",
+      "heart",
+      "nae",
+      "night",
+      "da",
+      "feel",
+      "come",
+      "got",
+      "make",
+      "girl",
+      "deo",
+      "dumb"
+    ],
+    "closest_to_centroid_song_ids": [
+      5722660,
+      4181088,
+      6371369
+    ],
+    "most_viewed_song_ids": [
+      5881818,
+      3629701,
+      725794
+    ],
+    "name": "Sleepless Foolish Hearts"
+  },
+  {
+    "id": "7_3",
+    "level": 2,
+    "parent_cluster_id": "7",
+    "song_count": 1880,
+    "keywords": [
+      "like",
+      "la",
+      "know",
+      "just",
+      "let",
+      "ah",
+      "ayy",
+      "da",
+      "want",
+      "got",
+      "love",
+      "time",
+      "nae",
+      "\ub0b4\uac00",
+      "come",
+      "make",
+      "right",
+      "baby",
+      "feel",
+      "say"
+    ],
+    "closest_to_centroid_song_ids": [
+      5645570,
+      5521037,
+      4425064
+    ],
+    "most_viewed_song_ids": [
+      6746160,
+      3126688,
+      3804217
+    ],
+    "name": "Say Wow, Chase Utopia"
+  },
+  {
+    "id": "7_4",
+    "level": 2,
+    "parent_cluster_id": "7",
+    "song_count": 1065,
+    "keywords": [
+      "like",
+      "nae",
+      "baby",
+      "let",
+      "love",
+      "know",
+      "la",
+      "just",
+      "\ub0b4\uac00",
+      "nan",
+      "da",
+      "want",
+      "nal",
+      "got",
+      "right",
+      "girl",
+      "make",
+      "naega",
+      "eun",
+      "\ub098\ub294"
+    ],
+    "closest_to_centroid_song_ids": [
+      3102375,
+      6137142,
+      3330336
+    ],
+    "most_viewed_song_ids": [
+      4453314,
+      3980889,
+      3306598
+    ],
+    "name": "My Way Through Fire"
+  },
+  {
+    "id": "7_5",
+    "level": 2,
+    "parent_cluster_id": "7",
+    "song_count": 391,
+    "keywords": [
+      "w\u01d2",
+      "like",
+      "n\u01d0",
+      "love",
+      "know",
+      "wo",
+      "ni",
+      "z\u00e0i",
+      "china",
+      "just",
+      "got",
+      "\u6771\u4eac",
+      "xiang",
+      "la",
+      "money",
+      "cbd",
+      "shit",
+      "want",
+      "sh\u00ec",
+      "b\u00f9"
+    ],
+    "closest_to_centroid_song_ids": [
+      3010804,
+      3721646,
+      3847441
+    ],
+    "most_viewed_song_ids": [
+      5644558,
+      7471945,
+      103335
+    ],
+    "name": "Neon Mandarin Love & Money"
+  },
+  {
+    "id": "7_6",
+    "level": 2,
+    "parent_cluster_id": "7",
+    "song_count": 329,
+    "keywords": [
+      "anh",
+      "kh\u00f4ng",
+      "em",
+      "c\u00f3",
+      "l\u00e0",
+      "\u0111i",
+      "nh\u01b0",
+      "m\u1ed9t",
+      "y\u00eau",
+      "ng\u01b0\u1eddi",
+      "m\u00ecnh",
+      "trong",
+      "khi",
+      "v\u00e0",
+      "r\u1ed3i",
+      "nh\u1eefng",
+      "ng\u00e0y",
+      "c\u00f2n",
+      "\u0111\u00e3",
+      "\u0111\u1ec3"
+    ],
+    "closest_to_centroid_song_ids": [
+      6279096,
+      4671957,
+      5170329
+    ],
+    "most_viewed_song_ids": [
+      4960091,
+      4092023,
+      3713159
+    ],
+    "name": "Midnight Hangover of Lost Love"
+  },
+  {
+    "id": "8_0",
+    "level": 2,
+    "parent_cluster_id": "8",
+    "song_count": 2662,
+    "keywords": [
+      "che",
+      "non",
+      "la",
+      "il",
+      "di",
+      "mi",
+      "come",
+      "ho",
+      "ma",
+      "se",
+      "le",
+      "ti",
+      "una",
+      "sono",
+      "da",
+      "io",
+      "pi\u00f9",
+      "tu",
+      "lo",
+      "si"
+    ],
+    "closest_to_centroid_song_ids": [
+      3519446,
+      5887307,
+      2488572
+    ],
+    "most_viewed_song_ids": [
+      2892490,
+      4606428,
+      3059273
+    ],
+    "name": "Italian Hardcore Rap: Infamy, Violence & Nightlife"
+  },
+  {
+    "id": "8_1",
+    "level": 2,
+    "parent_cluster_id": "8",
+    "song_count": 2311,
+    "keywords": [
+      "che",
+      "non",
+      "di",
+      "il",
+      "la",
+      "mi",
+      "ma",
+      "ti",
+      "se",
+      "come",
+      "ho",
+      "le",
+      "te",
+      "una",
+      "io",
+      "tu",
+      "pi\u00f9",
+      "da",
+      "ci",
+      "sei"
+    ],
+    "closest_to_centroid_song_ids": [
+      2955226,
+      2810975,
+      1325801
+    ],
+    "most_viewed_song_ids": [
+      2882851,
+      3018212,
+      3264923
+    ],
+    "name": "Italian Rap Heartbreak & Emotional Isolation"
+  },
+  {
+    "id": "8_2",
+    "level": 2,
+    "parent_cluster_id": "8",
+    "song_count": 2045,
+    "keywords": [
+      "non",
+      "la",
+      "che",
+      "il",
+      "mi",
+      "di",
+      "ho",
+      "come",
+      "ma",
+      "sono",
+      "se",
+      "le",
+      "una",
+      "ti",
+      "ah",
+      "da",
+      "tu",
+      "lo",
+      "sto",
+      "io"
+    ],
+    "closest_to_centroid_song_ids": [
+      5479676,
+      5719130,
+      5842717
+    ],
+    "most_viewed_song_ids": [
+      3426904,
+      3310816,
+      4953393
+    ],
+    "name": "Italian Rap Braggadocio & Ad-Lib Swagger"
+  },
+  {
+    "id": "8_3",
+    "level": 2,
+    "parent_cluster_id": "8",
+    "song_count": 1314,
+    "keywords": [
+      "che",
+      "non",
+      "il",
+      "la",
+      "di",
+      "mi",
+      "come",
+      "ho",
+      "ma",
+      "se",
+      "le",
+      "sono",
+      "io",
+      "ti",
+      "una",
+      "da",
+      "pi\u00f9",
+      "lo",
+      "tu",
+      "si"
+    ],
+    "closest_to_centroid_song_ids": [
+      2144310,
+      4898790,
+      3107419
+    ],
+    "most_viewed_song_ids": [
+      2888450,
+      6563726,
+      3538571
+    ],
+    "name": "Italian Rap Existential Struggle & Self-Destruction"
+  },
+  {
+    "id": "8_4",
+    "level": 2,
+    "parent_cluster_id": "8",
+    "song_count": 213,
+    "keywords": [
+      "nun",
+      "ca",
+      "te",
+      "ma",
+      "si",
+      "che",
+      "tu",
+      "cu",
+      "nu",
+      "pe",
+      "mo",
+      "ce",
+      "je",
+      "fa",
+      "sta",
+      "pecch\u00e9",
+      "cchi\u00f9",
+      "se",
+      "non",
+      "po"
+    ],
+    "closest_to_centroid_song_ids": [
+      3535330,
+      4242459,
+      4917156
+    ],
+    "most_viewed_song_ids": [
+      3082280,
+      3897325,
+      3005297
+    ],
+    "name": "Neapolitan Rap Love & Longing"
+  },
+  {
+    "id": "9_0",
+    "level": 2,
+    "parent_cluster_id": "9",
+    "song_count": 1386,
+    "keywords": [
+      "jag",
+      "och",
+      "du",
+      "det",
+      "\u00e4r",
+      "som",
+      "vi",
+      "mig",
+      "att",
+      "p\u00e5",
+      "f\u00f6r",
+      "en",
+      "s\u00e5",
+      "dig",
+      "har",
+      "men",
+      "om",
+      "inte",
+      "kan",
+      "med"
+    ],
+    "closest_to_centroid_song_ids": [
+      4610379,
+      6897843,
+      2193332
+    ],
+    "most_viewed_song_ids": [
+      3613564,
+      1302795,
+      1958644
+    ],
+    "name": "Swedish Romantic Devotion"
+  },
+  {
+    "id": "9_1",
+    "level": 2,
+    "parent_cluster_id": "9",
+    "song_count": 1371,
+    "keywords": [
+      "jeg",
+      "det",
+      "du",
+      "og",
+      "er",
+      "mig",
+      "vi",
+      "ikk",
+      "p\u00e5",
+      "en",
+      "s\u00e5",
+      "har",
+      "der",
+      "med",
+      "dig",
+      "til",
+      "min",
+      "den",
+      "vil",
+      "ja"
+    ],
+    "closest_to_centroid_song_ids": [
+      6042402,
+      5215910,
+      6602560
+    ],
+    "most_viewed_song_ids": [
+      1040593,
+      109985,
+      2168541
+    ],
+    "name": "Danish Defiance & Braggadocio"
+  },
+  {
+    "id": "9_2",
+    "level": 2,
+    "parent_cluster_id": "9",
+    "song_count": 1334,
+    "keywords": [
+      "m\u00e4",
+      "ja",
+      "ei",
+      "s\u00e4",
+      "mun",
+      "mut",
+      "se",
+      "kun",
+      "niin",
+      "jos",
+      "en",
+      "vaan",
+      "oon",
+      "mit\u00e4",
+      "oo",
+      "et",
+      "sun",
+      "ku",
+      "mua",
+      "kaikki"
+    ],
+    "closest_to_centroid_song_ids": [
+      5545854,
+      4901775,
+      5640901
+    ],
+    "most_viewed_song_ids": [
+      5281219,
+      1073988,
+      1145500
+    ],
+    "name": "Finnish Longing & Intimate Attachment"
+  },
+  {
+    "id": "9_3",
+    "level": 2,
+    "parent_cluster_id": "9",
+    "song_count": 847,
+    "keywords": [
+      "jeg",
+      "og",
+      "det",
+      "du",
+      "er",
+      "p\u00e5",
+      "meg",
+      "som",
+      "en",
+      "s\u00e5",
+      "vi",
+      "med",
+      "har",
+      "deg",
+      "til",
+      "ikke",
+      "vil",
+      "men",
+      "kan",
+      "bare"
+    ],
+    "closest_to_centroid_song_ids": [
+      5127146,
+      5201046,
+      5793623
+    ],
+    "most_viewed_song_ids": [
+      435137,
+      2347853,
+      2499233
+    ],
+    "name": "Norwegian Reckless Nights & Personal Defiance"
+  },
+  {
+    "id": "9_4",
+    "level": 2,
+    "parent_cluster_id": "9",
+    "song_count": 786,
+    "keywords": [
+      "jag",
+      "\u00e4r",
+      "det",
+      "vi",
+      "du",
+      "p\u00e5",
+      "som",
+      "och",
+      "mig",
+      "en",
+      "f\u00f6r",
+      "har",
+      "min",
+      "hon",
+      "med",
+      "inte",
+      "att",
+      "kan",
+      "om",
+      "vill"
+    ],
+    "closest_to_centroid_song_ids": [
+      6728699,
+      5051996,
+      4928992
+    ],
+    "most_viewed_song_ids": [
+      4726256,
+      114186,
+      4786062
+    ],
+    "name": "Street Loyalty & Violent Ambition"
+  },
+  {
+    "id": "9_5",
+    "level": 2,
+    "parent_cluster_id": "9",
+    "song_count": 715,
+    "keywords": [
+      "jeg",
+      "det",
+      "og",
+      "ikk",
+      "er",
+      "du",
+      "vi",
+      "p\u00e5",
+      "mig",
+      "en",
+      "har",
+      "s\u00e5",
+      "med",
+      "til",
+      "der",
+      "min",
+      "som",
+      "vil",
+      "den",
+      "men"
+    ],
+    "closest_to_centroid_song_ids": [
+      140268,
+      5691072,
+      4993706
+    ],
+    "most_viewed_song_ids": [
+      385991,
+      239461,
+      395134
+    ],
+    "name": "Danish Hustle, Nightlife & Defiance"
+  },
+  {
+    "id": "9_6",
+    "level": 2,
+    "parent_cluster_id": "9",
+    "song_count": 562,
+    "keywords": [
+      "jag",
+      "\u00e4r",
+      "det",
+      "och",
+      "vi",
+      "p\u00e5",
+      "du",
+      "som",
+      "en",
+      "f\u00f6r",
+      "har",
+      "mig",
+      "med",
+      "att",
+      "min",
+      "om",
+      "inte",
+      "vill",
+      "h\u00e4r",
+      "s\u00e5"
+    ],
+    "closest_to_centroid_song_ids": [
+      3123439,
+      4930243,
+      5469827
+    ],
+    "most_viewed_song_ids": [
+      183889,
+      4442178,
+      4245945
+    ],
+    "name": "Swedish Street Crime Realism"
+  },
+  {
+    "id": "9_7",
+    "level": 2,
+    "parent_cluster_id": "9",
+    "song_count": 231,
+    "keywords": [
+      "m\u00e4",
+      "ei",
+      "ja",
+      "s\u00e4",
+      "ku",
+      "mun",
+      "mut",
+      "se",
+      "mit\u00e4",
+      "et",
+      "oon",
+      "oo",
+      "jos",
+      "en",
+      "t\u00e4\u00e4",
+      "sun",
+      "vaan",
+      "ne",
+      "nii",
+      "vaa"
+    ],
+    "closest_to_centroid_song_ids": [
+      3057192,
+      3292941,
+      3819032
+    ],
+    "most_viewed_song_ids": [
+      3703464,
+      2383273,
+      3782309
+    ],
+    "name": "Finnish Rap Resilience & Forward Momentum"
+  },
+  {
+    "id": "0_0_0",
+    "level": 3,
+    "parent_cluster_id": "0_0",
+    "song_count": 9546,
+    "keywords": [
+      "know",
+      "love",
+      "just",
+      "time",
+      "like",
+      "feel",
+      "let",
+      "want",
+      "come",
+      "away",
+      "way",
+      "say",
+      "got",
+      "make",
+      "life",
+      "need",
+      "mind",
+      "la",
+      "cause",
+      "won"
+    ],
+    "closest_to_centroid_song_ids": [
+      122408,
+      2312667,
+      1296095
+    ],
+    "most_viewed_song_ids": [
+      5139,
+      7844309,
+      79538
+    ],
+    "name": "World-Weary Homeward Longing"
+  },
+  {
+    "id": "0_0_1",
+    "level": 3,
+    "parent_cluster_id": "0_0",
+    "song_count": 7968,
+    "keywords": [
+      "like",
+      "know",
+      "just",
+      "love",
+      "got",
+      "la",
+      "want",
+      "come",
+      "time",
+      "let",
+      "say",
+      "way",
+      "make",
+      "away",
+      "cause",
+      "man",
+      "girl",
+      "said",
+      "feel",
+      "life"
+    ],
+    "closest_to_centroid_song_ids": [
+      847844,
+      694664,
+      3607305
+    ],
+    "most_viewed_song_ids": [
+      109096,
+      91265,
+      726660
+    ],
+    "name": "Dangerous Desire Alternative Rock"
+  },
+  {
+    "id": "0_0_2",
+    "level": 3,
+    "parent_cluster_id": "0_0",
+    "song_count": 7819,
+    "keywords": [
+      "like",
+      "just",
+      "know",
+      "love",
+      "time",
+      "got",
+      "way",
+      "want",
+      "say",
+      "let",
+      "cause",
+      "feel",
+      "think",
+      "make",
+      "away",
+      "come",
+      "life",
+      "said",
+      "home",
+      "night"
+    ],
+    "closest_to_centroid_song_ids": [
+      3170023,
+      707074,
+      4587345
+    ],
+    "most_viewed_song_ids": [
+      151355,
+      63338,
+      93916
+    ],
+    "name": "Self-Questioning Alternative Love Songs"
+  },
+  {
+    "id": "0_0_3",
+    "level": 3,
+    "parent_cluster_id": "0_0",
+    "song_count": 7515,
+    "keywords": [
+      "love",
+      "know",
+      "like",
+      "just",
+      "let",
+      "come",
+      "time",
+      "heart",
+      "away",
+      "eyes",
+      "way",
+      "light",
+      "home",
+      "want",
+      "feel",
+      "hold",
+      "night",
+      "water",
+      "got",
+      "life"
+    ],
+    "closest_to_centroid_song_ids": [
+      925376,
+      5204509,
+      75021
+    ],
+    "most_viewed_song_ids": [
+      1237,
+      2953767,
+      245054
+    ],
+    "name": "Moonlit Water and Open Hearts"
+  },
+  {
+    "id": "0_0_4",
+    "level": 3,
+    "parent_cluster_id": "0_0",
+    "song_count": 413,
+    "keywords": [
+      "love",
+      "baby",
+      "que",
+      "la",
+      "know",
+      "just",
+      "ang",
+      "like",
+      "let",
+      "en",
+      "te",
+      "el",
+      "come",
+      "girl",
+      "mi",
+      "sa",
+      "got",
+      "time",
+      "make",
+      "say"
+    ],
+    "closest_to_centroid_song_ids": [
+      1269712,
+      1552238,
+      1425225
+    ],
+    "most_viewed_song_ids": [
+      1360147,
+      1389083,
+      1699159
+    ],
+    "name": "Multilingual Please-Stay Love Ballads"
+  },
+  {
+    "id": "0_1_0",
+    "level": 3,
+    "parent_cluster_id": "0_1",
+    "song_count": 4099,
+    "keywords": [
+      "like",
+      "just",
+      "know",
+      "got",
+      "let",
+      "love",
+      "time",
+      "say",
+      "come",
+      "make",
+      "way",
+      "cause",
+      "little",
+      "day",
+      "want",
+      "think",
+      "la",
+      "man",
+      "right",
+      "good"
+    ],
+    "closest_to_centroid_song_ids": [
+      3844168,
+      2262592,
+      136960
+    ],
+    "most_viewed_song_ids": [
+      84851,
+      21569,
+      2894765
+    ],
+    "name": "Playful Songs of Self-Doubt and Absurdity"
+  },
+  {
+    "id": "0_1_1",
+    "level": 3,
+    "parent_cluster_id": "0_1",
+    "song_count": 3297,
+    "keywords": [
+      "got",
+      "like",
+      "baby",
+      "know",
+      "just",
+      "love",
+      "come",
+      "man",
+      "want",
+      "rock",
+      "let",
+      "time",
+      "night",
+      "right",
+      "say",
+      "la",
+      "ah",
+      "little",
+      "said",
+      "way"
+    ],
+    "closest_to_centroid_song_ids": [
+      93409,
+      1120035,
+      447313
+    ],
+    "most_viewed_song_ids": [
+      1063,
+      118560,
+      83863
+    ],
+    "name": "Rock \u2019n\u2019 Roll Seduction Anthems"
+  },
+  {
+    "id": "0_1_2",
+    "level": 3,
+    "parent_cluster_id": "0_1",
+    "song_count": 3277,
+    "keywords": [
+      "got",
+      "just",
+      "know",
+      "like",
+      "man",
+      "come",
+      "time",
+      "said",
+      "love",
+      "home",
+      "baby",
+      "way",
+      "away",
+      "old",
+      "long",
+      "day",
+      "gone",
+      "night",
+      "say",
+      "let"
+    ],
+    "closest_to_centroid_song_ids": [
+      651309,
+      945698,
+      220582
+    ],
+    "most_viewed_song_ids": [
+      1060,
+      87427,
+      138406
+    ],
+    "name": "Long Roads and Farewells"
+  },
+  {
+    "id": "0_1_3",
+    "level": 3,
+    "parent_cluster_id": "0_1",
+    "song_count": 3033,
+    "keywords": [
+      "love",
+      "know",
+      "just",
+      "day",
+      "time",
+      "like",
+      "world",
+      "let",
+      "come",
+      "life",
+      "got",
+      "way",
+      "say",
+      "away",
+      "la",
+      "make",
+      "man",
+      "free",
+      "want",
+      "sun"
+    ],
+    "closest_to_centroid_song_ids": [
+      842616,
+      396147,
+      1851584
+    ],
+    "most_viewed_song_ids": [
+      54447,
+      1638,
+      1061
+    ],
+    "name": "Hopeful Visions of Freedom and Home"
+  },
+  {
+    "id": "0_1_4",
+    "level": 3,
+    "parent_cluster_id": "0_1",
+    "song_count": 2276,
+    "keywords": [
+      "like",
+      "just",
+      "got",
+      "know",
+      "love",
+      "little",
+      "girl",
+      "time",
+      "good",
+      "baby",
+      "cause",
+      "right",
+      "night",
+      "way",
+      "let",
+      "make",
+      "man",
+      "say",
+      "old",
+      "come"
+    ],
+    "closest_to_centroid_song_ids": [
+      2458948,
+      590980,
+      5258703
+    ],
+    "most_viewed_song_ids": [
+      2461236,
+      1778812,
+      3723186
+    ],
+    "name": "Country Songs of Backroad Romance and Flirtation"
+  },
+  {
+    "id": "0_1_5",
+    "level": 3,
+    "parent_cluster_id": "0_1",
+    "song_count": 1873,
+    "keywords": [
+      "love",
+      "like",
+      "just",
+      "know",
+      "la",
+      "say",
+      "got",
+      "let",
+      "heart",
+      "time",
+      "day",
+      "life",
+      "way",
+      "little",
+      "make",
+      "come",
+      "night",
+      "man",
+      "good",
+      "tell"
+    ],
+    "closest_to_centroid_song_ids": [
+      1026862,
+      3654195,
+      870785
+    ],
+    "most_viewed_song_ids": [
+      2916639,
+      118812,
+      197191
+    ],
+    "name": "Heartfelt Memories and Romantic Confessions"
+  },
+  {
+    "id": "0_1_6",
+    "level": 3,
+    "parent_cluster_id": "0_1",
+    "song_count": 1431,
+    "keywords": [
+      "come",
+      "away",
+      "la",
+      "love",
+      "home",
+      "day",
+      "man",
+      "like",
+      "old",
+      "got",
+      "just",
+      "let",
+      "ho",
+      "know",
+      "said",
+      "way",
+      "time",
+      "say",
+      "sea",
+      "did"
+    ],
+    "closest_to_centroid_song_ids": [
+      1769587,
+      1570492,
+      1514777
+    ],
+    "most_viewed_song_ids": [
+      70448,
+      80182,
+      3929795
+    ],
+    "name": "Irish Sea Farewells and Drinking Songs"
+  },
+  {
+    "id": "0_1_7",
+    "level": 3,
+    "parent_cluster_id": "0_1",
+    "song_count": 917,
+    "keywords": [
+      "love",
+      "que",
+      "know",
+      "like",
+      "just",
+      "la",
+      "baby",
+      "en",
+      "time",
+      "come",
+      "mi",
+      "ang",
+      "te",
+      "det",
+      "want",
+      "cause",
+      "tu",
+      "feel",
+      "got",
+      "let"
+    ],
+    "closest_to_centroid_song_ids": [
+      1396233,
+      1477821,
+      1158693
+    ],
+    "most_viewed_song_ids": [
+      1272287,
+      1548958,
+      1044634
+    ],
+    "name": "Devoted Love Through Separation"
+  },
+  {
+    "id": "0_1_8",
+    "level": 3,
+    "parent_cluster_id": "0_1",
+    "song_count": 459,
+    "keywords": [
+      "nyan",
+      "la",
+      "ah",
+      "da",
+      "te",
+      "ba",
+      "ciao",
+      "mi",
+      "bing",
+      "nah",
+      "le",
+      "wadu",
+      "mariri",
+      "ha",
+      "bella",
+      "ameno",
+      "hek",
+      "ho",
+      "eh",
+      "ding"
+    ],
+    "closest_to_centroid_song_ids": [
+      6365972,
+      378400,
+      5027589
+    ],
+    "most_viewed_song_ids": [
+      3885955,
+      76153,
+      160037
+    ],
+    "name": "Wordless Chants of Lost Dreams"
+  },
+  {
+    "id": "0_2_0",
+    "level": 3,
+    "parent_cluster_id": "0_2",
+    "song_count": 6473,
+    "keywords": [
+      "like",
+      "know",
+      "just",
+      "love",
+      "got",
+      "feel",
+      "time",
+      "need",
+      "cause",
+      "let",
+      "think",
+      "want",
+      "life",
+      "make",
+      "fuck",
+      "way",
+      "away",
+      "tell",
+      "shit",
+      "say"
+    ],
+    "closest_to_centroid_song_ids": [
+      3025504,
+      3904492,
+      2327085
+    ],
+    "most_viewed_song_ids": [
+      3003630,
+      3050777,
+      3430186
+    ],
+    "name": "Escapist Life Despair Rap"
+  },
+  {
+    "id": "0_2_1",
+    "level": 3,
+    "parent_cluster_id": "0_2",
+    "song_count": 4805,
+    "keywords": [
+      "know",
+      "love",
+      "like",
+      "just",
+      "got",
+      "baby",
+      "cause",
+      "time",
+      "girl",
+      "say",
+      "need",
+      "let",
+      "want",
+      "shit",
+      "make",
+      "tell",
+      "think",
+      "right",
+      "way",
+      "fuck"
+    ],
+    "closest_to_centroid_song_ids": [
+      4721896,
+      5724552,
+      5769784
+    ],
+    "most_viewed_song_ids": [
+      2263723,
+      579968,
+      50895
+    ],
+    "name": "Toxic Breakups & Lingering Exes"
+  },
+  {
+    "id": "0_2_2",
+    "level": 3,
+    "parent_cluster_id": "0_2",
+    "song_count": 4356,
+    "keywords": [
+      "love",
+      "like",
+      "know",
+      "just",
+      "baby",
+      "got",
+      "girl",
+      "need",
+      "let",
+      "want",
+      "cause",
+      "time",
+      "make",
+      "feel",
+      "right",
+      "say",
+      "way",
+      "think",
+      "tell",
+      "come"
+    ],
+    "closest_to_centroid_song_ids": [
+      5198056,
+      530295,
+      3560189
+    ],
+    "most_viewed_song_ids": [
+      2905167,
+      729458,
+      2361587
+    ],
+    "name": "Devoted Love & Relationship Support"
+  },
+  {
+    "id": "0_2_3",
+    "level": 3,
+    "parent_cluster_id": "0_2",
+    "song_count": 4056,
+    "keywords": [
+      "like",
+      "know",
+      "baby",
+      "got",
+      "just",
+      "girl",
+      "love",
+      "want",
+      "make",
+      "let",
+      "need",
+      "time",
+      "right",
+      "come",
+      "cause",
+      "say",
+      "tell",
+      "way",
+      "night",
+      "body"
+    ],
+    "closest_to_centroid_song_ids": [
+      4581682,
+      2967890,
+      2396923
+    ],
+    "most_viewed_song_ids": [
+      727466,
+      2398213,
+      2450584
+    ],
+    "name": "All-Night Body Lust"
+  },
+  {
+    "id": "0_2_4",
+    "level": 3,
+    "parent_cluster_id": "0_2",
+    "song_count": 156,
+    "keywords": [
+      "que",
+      "la",
+      "s\u00ed",
+      "en",
+      "te",
+      "lo",
+      "mi",
+      "el",
+      "por",
+      "es",
+      "estoy",
+      "quiero",
+      "cuando",
+      "si",
+      "como",
+      "tu",
+      "pero",
+      "para",
+      "puedo",
+      "una"
+    ],
+    "closest_to_centroid_song_ids": [
+      5367710,
+      7557854,
+      5170112
+    ],
+    "most_viewed_song_ids": [
+      3560220,
+      5062494,
+      3688052
+    ],
+    "name": "Spanish-Translated Toxic Love & Emotional Detachment"
+  },
+  {
+    "id": "0_3_0",
+    "level": 3,
+    "parent_cluster_id": "0_3",
+    "song_count": 5977,
+    "keywords": [
+      "just",
+      "know",
+      "like",
+      "let",
+      "away",
+      "feel",
+      "time",
+      "life",
+      "way",
+      "won",
+      "inside",
+      "cause",
+      "make",
+      "say",
+      "want",
+      "love",
+      "eyes",
+      "come",
+      "need",
+      "got"
+    ],
+    "closest_to_centroid_song_ids": [
+      218596,
+      185095,
+      124913
+    ],
+    "most_viewed_song_ids": [
+      3082569,
+      4076367,
+      49719
+    ],
+    "name": "Desperate Inner Ruin"
+  },
+  {
+    "id": "0_3_1",
+    "level": 3,
+    "parent_cluster_id": "0_3",
+    "song_count": 5090,
+    "keywords": [
+      "like",
+      "just",
+      "know",
+      "fuck",
+      "got",
+      "love",
+      "want",
+      "make",
+      "cause",
+      "let",
+      "time",
+      "fucking",
+      "come",
+      "say",
+      "feel",
+      "life",
+      "la",
+      "way",
+      "think",
+      "away"
+    ],
+    "closest_to_centroid_song_ids": [
+      1651528,
+      82108,
+      519977
+    ],
+    "most_viewed_song_ids": [
+      52968,
+      4186971,
+      88430
+    ],
+    "name": "Profane Violent Anguish"
+  },
+  {
+    "id": "0_3_2",
+    "level": 3,
+    "parent_cluster_id": "0_3",
+    "song_count": 3843,
+    "keywords": [
+      "time",
+      "life",
+      "world",
+      "come",
+      "like",
+      "die",
+      "death",
+      "know",
+      "blood",
+      "eyes",
+      "end",
+      "god",
+      "light",
+      "night",
+      "let",
+      "just",
+      "away",
+      "way",
+      "man",
+      "hell"
+    ],
+    "closest_to_centroid_song_ids": [
+      3035309,
+      5349203,
+      4609251
+    ],
+    "most_viewed_song_ids": [
+      118766,
+      255107,
+      58896
+    ],
+    "name": "Apocalyptic Nihilism and Human Corruption"
+  },
+  {
+    "id": "0_3_3",
+    "level": 3,
+    "parent_cluster_id": "0_3",
+    "song_count": 3394,
+    "keywords": [
+      "just",
+      "like",
+      "know",
+      "world",
+      "got",
+      "time",
+      "let",
+      "want",
+      "life",
+      "say",
+      "cause",
+      "come",
+      "make",
+      "war",
+      "way",
+      "won",
+      "right",
+      "feel",
+      "love",
+      "man"
+    ],
+    "closest_to_centroid_song_ids": [
+      916672,
+      124764,
+      216452
+    ],
+    "most_viewed_song_ids": [
+      103212,
+      63759,
+      133519
+    ],
+    "name": "Revolutionary Antiwar Defiance"
+  },
+  {
+    "id": "0_3_4",
+    "level": 3,
+    "parent_cluster_id": "0_3",
+    "song_count": 635,
+    "keywords": [
+      "love",
+      "la",
+      "know",
+      "que",
+      "baby",
+      "just",
+      "ang",
+      "let",
+      "like",
+      "come",
+      "time",
+      "say",
+      "jag",
+      "te",
+      "want",
+      "en",
+      "feel",
+      "got",
+      "life",
+      "away"
+    ],
+    "closest_to_centroid_song_ids": [
+      1570599,
+      1187173,
+      1097714
+    ],
+    "most_viewed_song_ids": [
+      1411534,
+      1091156,
+      1086281
+    ],
+    "name": "Devoted Love and Farewell Ballads"
+  },
+  {
+    "id": "0_3_5",
+    "level": 3,
+    "parent_cluster_id": "0_3",
+    "song_count": 607,
+    "keywords": [
+      "just",
+      "know",
+      "like",
+      "monster",
+      "let",
+      "time",
+      "la",
+      "come",
+      "got",
+      "make",
+      "run",
+      "cause",
+      "night",
+      "feel",
+      "life",
+      "won",
+      "inside",
+      "think",
+      "right",
+      "away"
+    ],
+    "closest_to_centroid_song_ids": [
+      5718665,
+      2867152,
+      5838159
+    ],
+    "most_viewed_song_ids": [
+      2532266,
+      4541747,
+      726676
+    ],
+    "name": "Nighttime Monster Horror Rock"
+  },
+  {
+    "id": "0_4_0",
+    "level": 3,
+    "parent_cluster_id": "0_4",
+    "song_count": 4835,
+    "keywords": [
+      "love",
+      "know",
+      "just",
+      "like",
+      "let",
+      "say",
+      "want",
+      "cause",
+      "heart",
+      "time",
+      "need",
+      "tell",
+      "baby",
+      "feel",
+      "got",
+      "make",
+      "way",
+      "away",
+      "leave",
+      "won"
+    ],
+    "closest_to_centroid_song_ids": [
+      3493594,
+      190997,
+      3693596
+    ],
+    "most_viewed_song_ids": [
+      3484874,
+      2942605,
+      3716416
+    ],
+    "name": "Haunted by Letting Go"
+  },
+  {
+    "id": "0_4_1",
+    "level": 3,
+    "parent_cluster_id": "0_4",
+    "song_count": 3496,
+    "keywords": [
+      "know",
+      "just",
+      "like",
+      "love",
+      "cause",
+      "got",
+      "think",
+      "say",
+      "time",
+      "want",
+      "let",
+      "baby",
+      "better",
+      "tell",
+      "way",
+      "la",
+      "feel",
+      "need",
+      "good",
+      "heart"
+    ],
+    "closest_to_centroid_song_ids": [
+      3578445,
+      6506344,
+      7757267
+    ],
+    "most_viewed_song_ids": [
+      4063065,
+      3219597,
+      2263909
+    ],
+    "name": "Defiant Cheater Callouts"
+  },
+  {
+    "id": "0_4_2",
+    "level": 3,
+    "parent_cluster_id": "0_4",
+    "song_count": 3478,
+    "keywords": [
+      "know",
+      "just",
+      "like",
+      "time",
+      "love",
+      "say",
+      "cause",
+      "let",
+      "want",
+      "feel",
+      "think",
+      "way",
+      "away",
+      "got",
+      "make",
+      "said",
+      "need",
+      "tell",
+      "won",
+      "things"
+    ],
+    "closest_to_centroid_song_ids": [
+      3193736,
+      2439357,
+      6429097
+    ],
+    "most_viewed_song_ids": [
+      5037838,
+      3806525,
+      3577661
+    ],
+    "name": "Unsaid Things"
+  },
+  {
+    "id": "0_4_3",
+    "level": 3,
+    "parent_cluster_id": "0_4",
+    "song_count": 2997,
+    "keywords": [
+      "know",
+      "just",
+      "love",
+      "like",
+      "time",
+      "cause",
+      "let",
+      "say",
+      "remember",
+      "feel",
+      "way",
+      "got",
+      "away",
+      "miss",
+      "come",
+      "want",
+      "right",
+      "think",
+      "heart",
+      "make"
+    ],
+    "closest_to_centroid_song_ids": [
+      4625432,
+      725219,
+      5039935
+    ],
+    "most_viewed_song_ids": [
+      2458848,
+      2332455,
+      720401
+    ],
+    "name": "Nostalgic Breakup Regrets"
+  },
+  {
+    "id": "0_4_4",
+    "level": 3,
+    "parent_cluster_id": "0_4",
+    "song_count": 2728,
+    "keywords": [
+      "just",
+      "know",
+      "like",
+      "cause",
+      "feel",
+      "think",
+      "want",
+      "love",
+      "time",
+      "got",
+      "need",
+      "say",
+      "let",
+      "make",
+      "way",
+      "tell",
+      "la",
+      "life",
+      "head",
+      "da"
+    ],
+    "closest_to_centroid_song_ids": [
+      2902426,
+      4916928,
+      3236157
+    ],
+    "most_viewed_song_ids": [
+      3422526,
+      5013279,
+      3143252
+    ],
+    "name": "Haunted Self-Doubt"
+  },
+  {
+    "id": "0_4_5",
+    "level": 3,
+    "parent_cluster_id": "0_4",
+    "song_count": 1180,
+    "keywords": [
+      "know",
+      "just",
+      "like",
+      "love",
+      "think",
+      "cause",
+      "want",
+      "mind",
+      "time",
+      "say",
+      "got",
+      "feel",
+      "night",
+      "thinking",
+      "friends",
+      "head",
+      "way",
+      "baby",
+      "tell",
+      "make"
+    ],
+    "closest_to_centroid_song_ids": [
+      4773093,
+      3228330,
+      2908797
+    ],
+    "most_viewed_song_ids": [
+      3348299,
+      53152,
+      154314
+    ],
+    "name": "Overthinking Unspoken Crushes"
+  },
+  {
+    "id": "0_4_6",
+    "level": 3,
+    "parent_cluster_id": "0_4",
+    "song_count": 147,
+    "keywords": [
+      "ghost",
+      "just",
+      "know",
+      "like",
+      "love",
+      "cause",
+      "let",
+      "ghosts",
+      "time",
+      "feel",
+      "night",
+      "come",
+      "la",
+      "got",
+      "nah",
+      "say",
+      "baby",
+      "said",
+      "away",
+      "think"
+    ],
+    "closest_to_centroid_song_ids": [
+      4268213,
+      6683662,
+      432691
+    ],
+    "most_viewed_song_ids": [
+      3053274,
+      299320,
+      3724421
+    ],
+    "name": "Ghosts That Won\u2019t Disappear"
+  },
+  {
+    "id": "0_5_0",
+    "level": 3,
+    "parent_cluster_id": "0_5",
+    "song_count": 4291,
+    "keywords": [
+      "love",
+      "like",
+      "know",
+      "just",
+      "got",
+      "baby",
+      "let",
+      "feel",
+      "want",
+      "cause",
+      "make",
+      "la",
+      "need",
+      "come",
+      "night",
+      "time",
+      "way",
+      "say",
+      "right",
+      "heart"
+    ],
+    "closest_to_centroid_song_ids": [
+      3755472,
+      5702301,
+      2264557
+    ],
+    "most_viewed_song_ids": [
+      226866,
+      3681280,
+      3219791
+    ],
+    "name": "Intoxicating Forbidden Desire"
+  },
+  {
+    "id": "0_5_1",
+    "level": 3,
+    "parent_cluster_id": "0_5",
+    "song_count": 3588,
+    "keywords": [
+      "like",
+      "know",
+      "just",
+      "got",
+      "love",
+      "la",
+      "baby",
+      "let",
+      "want",
+      "cause",
+      "girl",
+      "make",
+      "come",
+      "say",
+      "girls",
+      "way",
+      "boy",
+      "need",
+      "ah",
+      "feel"
+    ],
+    "closest_to_centroid_song_ids": [
+      1318333,
+      4036270,
+      7204892
+    ],
+    "most_viewed_song_ids": [
+      2419257,
+      139968,
+      4271772
+    ],
+    "name": "Wild Boy-Crazy Flirtation Anthems"
+  },
+  {
+    "id": "0_5_2",
+    "level": 3,
+    "parent_cluster_id": "0_5",
+    "song_count": 3310,
+    "keywords": [
+      "know",
+      "just",
+      "like",
+      "let",
+      "got",
+      "love",
+      "cause",
+      "time",
+      "life",
+      "world",
+      "make",
+      "feel",
+      "way",
+      "come",
+      "say",
+      "right",
+      "day",
+      "la",
+      "won",
+      "want"
+    ],
+    "closest_to_centroid_song_ids": [
+      3076962,
+      223244,
+      2479262
+    ],
+    "most_viewed_song_ids": [
+      2970719,
+      2137711,
+      5827731
+    ],
+    "name": "Daylight Defiance Anthems"
+  },
+  {
+    "id": "0_5_3",
+    "level": 3,
+    "parent_cluster_id": "0_5",
+    "song_count": 3267,
+    "keywords": [
+      "love",
+      "know",
+      "let",
+      "like",
+      "just",
+      "cause",
+      "need",
+      "feel",
+      "heart",
+      "home",
+      "hold",
+      "way",
+      "got",
+      "life",
+      "time",
+      "won",
+      "make",
+      "say",
+      "come",
+      "right"
+    ],
+    "closest_to_centroid_song_ids": [
+      697344,
+      1859454,
+      2807499
+    ],
+    "most_viewed_song_ids": [
+      3352793,
+      200546,
+      2819412
+    ],
+    "name": "Hold-Tight Devotion Anthems"
+  },
+  {
+    "id": "0_5_4",
+    "level": 3,
+    "parent_cluster_id": "0_5",
+    "song_count": 1582,
+    "keywords": [
+      "just",
+      "like",
+      "let",
+      "know",
+      "run",
+      "love",
+      "got",
+      "away",
+      "night",
+      "cause",
+      "young",
+      "time",
+      "life",
+      "feel",
+      "baby",
+      "tonight",
+      "way",
+      "come",
+      "say",
+      "want"
+    ],
+    "closest_to_centroid_song_ids": [
+      3624242,
+      3918065,
+      2956724
+    ],
+    "most_viewed_song_ids": [
+      180511,
+      63985,
+      2944779
+    ],
+    "name": "Midnight Runaway Escapes"
+  },
+  {
+    "id": "0_5_5",
+    "level": 3,
+    "parent_cluster_id": "0_5",
+    "song_count": 340,
+    "keywords": [
+      "love",
+      "like",
+      "know",
+      "just",
+      "baby",
+      "cause",
+      "got",
+      "time",
+      "come",
+      "say",
+      "let",
+      "look",
+      "think",
+      "want",
+      "way",
+      "heart",
+      "night",
+      "girl",
+      "right",
+      "la"
+    ],
+    "closest_to_centroid_song_ids": [
+      3810947,
+      3395591,
+      3374492
+    ],
+    "most_viewed_song_ids": [
+      2949128,
+      2953761,
+      200930
+    ],
+    "name": "Reflective Romantic Pop Mashups"
+  },
+  {
+    "id": "0_6_0",
+    "level": 3,
+    "parent_cluster_id": "0_6",
+    "song_count": 2959,
+    "keywords": [
+      "love",
+      "know",
+      "just",
+      "baby",
+      "heart",
+      "time",
+      "away",
+      "say",
+      "let",
+      "like",
+      "want",
+      "come",
+      "way",
+      "cause",
+      "make",
+      "got",
+      "feel",
+      "la",
+      "tell",
+      "day"
+    ],
+    "closest_to_centroid_song_ids": [
+      480833,
+      1332600,
+      430083
+    ],
+    "most_viewed_song_ids": [
+      220371,
+      118904,
+      105083
+    ],
+    "name": "Post-Breakup Longing and Reconciliation"
+  },
+  {
+    "id": "0_6_1",
+    "level": 3,
+    "parent_cluster_id": "0_6",
+    "song_count": 2876,
+    "keywords": [
+      "love",
+      "baby",
+      "know",
+      "got",
+      "just",
+      "want",
+      "come",
+      "like",
+      "let",
+      "feel",
+      "need",
+      "time",
+      "make",
+      "way",
+      "say",
+      "la",
+      "girl",
+      "night",
+      "right",
+      "good"
+    ],
+    "closest_to_centroid_song_ids": [
+      194933,
+      4277973,
+      154523
+    ],
+    "most_viewed_song_ids": [
+      1644,
+      69620,
+      87564
+    ],
+    "name": "Nighttime Romantic Longing"
+  },
+  {
+    "id": "0_6_2",
+    "level": 3,
+    "parent_cluster_id": "0_6",
+    "song_count": 2807,
+    "keywords": [
+      "love",
+      "baby",
+      "know",
+      "just",
+      "like",
+      "girl",
+      "want",
+      "got",
+      "let",
+      "cause",
+      "make",
+      "need",
+      "say",
+      "time",
+      "come",
+      "way",
+      "right",
+      "tell",
+      "feel",
+      "man"
+    ],
+    "closest_to_centroid_song_ids": [
+      765350,
+      20447,
+      3027421
+    ],
+    "most_viewed_song_ids": [
+      77191,
+      6531412,
+      66302
+    ],
+    "name": "Insistent Romantic Desire"
+  },
+  {
+    "id": "0_6_3",
+    "level": 3,
+    "parent_cluster_id": "0_6",
+    "song_count": 2569,
+    "keywords": [
+      "love",
+      "know",
+      "just",
+      "time",
+      "like",
+      "baby",
+      "heart",
+      "life",
+      "let",
+      "make",
+      "believe",
+      "way",
+      "feel",
+      "say",
+      "need",
+      "cause",
+      "forever",
+      "day",
+      "eyes",
+      "come"
+    ],
+    "closest_to_centroid_song_ids": [
+      1313102,
+      4005147,
+      1724999
+    ],
+    "most_viewed_song_ids": [
+      329470,
+      72156,
+      4910146
+    ],
+    "name": "Forevermore Soulmate Promises"
+  },
+  {
+    "id": "0_6_4",
+    "level": 3,
+    "parent_cluster_id": "0_6",
+    "song_count": 557,
+    "keywords": [
+      "like",
+      "just",
+      "know",
+      "come",
+      "time",
+      "let",
+      "way",
+      "got",
+      "love",
+      "say",
+      "away",
+      "la",
+      "want",
+      "man",
+      "day",
+      "life",
+      "en",
+      "make",
+      "feel",
+      "world"
+    ],
+    "closest_to_centroid_song_ids": [
+      1468683,
+      1042771,
+      1028727
+    ],
+    "most_viewed_song_ids": [
+      1023404,
+      1272555,
+      1400736
+    ],
+    "name": "Melancholic Existential Longing"
+  },
+  {
+    "id": "1_0_0",
+    "level": 3,
+    "parent_cluster_id": "1_0",
+    "song_count": 2247,
+    "keywords": [
+      "got",
+      "like",
+      "bitch",
+      "nigga",
+      "fuck",
+      "just",
+      "know",
+      "shit",
+      "niggas",
+      "money",
+      "ayy",
+      "want",
+      "gon",
+      "make",
+      "baby",
+      "hit",
+      "lil",
+      "em",
+      "let",
+      "cause"
+    ],
+    "closest_to_centroid_song_ids": [
+      3235766,
+      4072011,
+      5147662
+    ],
+    "most_viewed_song_ids": [
+      2989266,
+      2311373,
+      3089187
+    ],
+    "name": "Street-Smashing Lean Flex Trap"
+  },
+  {
+    "id": "1_0_1",
+    "level": 3,
+    "parent_cluster_id": "1_0",
+    "song_count": 2206,
+    "keywords": [
+      "like",
+      "got",
+      "know",
+      "just",
+      "bitch",
+      "want",
+      "shit",
+      "fuck",
+      "money",
+      "ayy",
+      "need",
+      "baby",
+      "love",
+      "cause",
+      "nigga",
+      "make",
+      "niggas",
+      "say",
+      "girl",
+      "hit"
+    ],
+    "closest_to_centroid_song_ids": [
+      4125048,
+      2417865,
+      3194817
+    ],
+    "most_viewed_song_ids": [
+      698675,
+      2961138,
+      3019198
+    ],
+    "name": "Trap Romance & Come-Up Anthems"
+  },
+  {
+    "id": "1_0_2",
+    "level": 3,
+    "parent_cluster_id": "1_0",
+    "song_count": 2204,
+    "keywords": [
+      "like",
+      "bitch",
+      "got",
+      "fuck",
+      "ayy",
+      "nigga",
+      "shit",
+      "just",
+      "know",
+      "niggas",
+      "huh",
+      "lil",
+      "hit",
+      "want",
+      "money",
+      "make",
+      "cause",
+      "dick",
+      "yuh",
+      "need"
+    ],
+    "closest_to_centroid_song_ids": [
+      4497109,
+      4789733,
+      4497108
+    ],
+    "most_viewed_song_ids": [
+      2441478,
+      3214267,
+      3518857
+    ],
+    "name": "Crude Meme-Fueled Trap Flexing"
+  },
+  {
+    "id": "1_0_3",
+    "level": 3,
+    "parent_cluster_id": "1_0",
+    "song_count": 1392,
+    "keywords": [
+      "like",
+      "bitch",
+      "got",
+      "ayy",
+      "know",
+      "just",
+      "fuck",
+      "love",
+      "shit",
+      "want",
+      "nigga",
+      "need",
+      "baby",
+      "feel",
+      "niggas",
+      "money",
+      "let",
+      "cause",
+      "make",
+      "gon"
+    ],
+    "closest_to_centroid_song_ids": [
+      4247634,
+      3741065,
+      2395771
+    ],
+    "most_viewed_song_ids": [
+      2942139,
+      539654,
+      2849762
+    ],
+    "name": "Dark Drug-Fueled Trap Nihilism"
+  },
+  {
+    "id": "1_0_4",
+    "level": 3,
+    "parent_cluster_id": "1_0",
+    "song_count": 681,
+    "keywords": [
+      "bitch",
+      "like",
+      "got",
+      "just",
+      "fuck",
+      "nigga",
+      "ayy",
+      "shit",
+      "know",
+      "niggas",
+      "lil",
+      "huh",
+      "money",
+      "carti",
+      "want",
+      "bitches",
+      "diamonds",
+      "gon",
+      "playboi",
+      "damn"
+    ],
+    "closest_to_centroid_song_ids": [
+      3071413,
+      3126383,
+      5143464
+    ],
+    "most_viewed_song_ids": [
+      3186843,
+      3496590,
+      2602578
+    ],
+    "name": "Playboi Carti-Style Diamond Flexing"
+  },
+  {
+    "id": "1_0_5",
+    "level": 3,
+    "parent_cluster_id": "1_0",
+    "song_count": 112,
+    "keywords": [
+      "nigga",
+      "bitch",
+      "21",
+      "got",
+      "like",
+      "niggas",
+      "gang",
+      "shit",
+      "savage",
+      "fuck",
+      "just",
+      "pull",
+      "young",
+      "know",
+      "slaughter",
+      "wow",
+      "hit",
+      "pussy",
+      "boomin",
+      "bitches"
+    ],
+    "closest_to_centroid_song_ids": [
+      2280469,
+      2151305,
+      2822873
+    ],
+    "most_viewed_song_ids": [
+      2280469,
+      4155516,
+      4061272
+    ],
+    "name": "Slaughter Gang Street Trap"
+  },
+  {
+    "id": "1_0_6",
+    "level": 3,
+    "parent_cluster_id": "1_0",
+    "song_count": 74,
+    "keywords": [
+      "sheck",
+      "bitch",
+      "nigga",
+      "wes",
+      "like",
+      "fuck",
+      "got",
+      "niggas",
+      "young",
+      "straight",
+      "let",
+      "lay",
+      "shit",
+      "fa",
+      "know",
+      "just",
+      "huh",
+      "time",
+      "jesus",
+      "chippi"
+    ],
+    "closest_to_centroid_song_ids": [
+      2826952,
+      2855626,
+      5254721
+    ],
+    "most_viewed_song_ids": [
+      2849767,
+      3203682,
+      4497172
+    ],
+    "name": "Houston Psychedelic Trap Anthems"
+  },
+  {
+    "id": "1_1_0",
+    "level": 3,
+    "parent_cluster_id": "1_1",
+    "song_count": 1734,
+    "keywords": [
+      "like",
+      "got",
+      "shit",
+      "just",
+      "fuck",
+      "know",
+      "nigga",
+      "bitch",
+      "niggas",
+      "cause",
+      "man",
+      "em",
+      "make",
+      "let",
+      "fucking",
+      "say",
+      "time",
+      "need",
+      "right",
+      "ya"
+    ],
+    "closest_to_centroid_song_ids": [
+      492807,
+      6138,
+      71928
+    ],
+    "most_viewed_song_ids": [
+      207,
+      86538,
+      242093
+    ],
+    "name": "Relentless Need-to-Prove Wordplay Rap"
+  },
+  {
+    "id": "1_1_1",
+    "level": 3,
+    "parent_cluster_id": "1_1",
+    "song_count": 1604,
+    "keywords": [
+      "like",
+      "just",
+      "got",
+      "know",
+      "shit",
+      "man",
+      "time",
+      "make",
+      "cause",
+      "let",
+      "life",
+      "say",
+      "fuck",
+      "em",
+      "people",
+      "way",
+      "black",
+      "right",
+      "come",
+      "world"
+    ],
+    "closest_to_centroid_song_ids": [
+      68909,
+      62390,
+      158577
+    ],
+    "most_viewed_song_ids": [
+      4569,
+      39690,
+      3126392
+    ],
+    "name": "Surrealist World-Building Wordplay Rap"
+  },
+  {
+    "id": "1_1_2",
+    "level": 3,
+    "parent_cluster_id": "1_1",
+    "song_count": 1265,
+    "keywords": [
+      "like",
+      "niggas",
+      "got",
+      "nigga",
+      "shit",
+      "know",
+      "just",
+      "fuck",
+      "man",
+      "bitch",
+      "em",
+      "cause",
+      "money",
+      "make",
+      "let",
+      "ya",
+      "time",
+      "come",
+      "life",
+      "right"
+    ],
+    "closest_to_centroid_song_ids": [
+      24035,
+      3963693,
+      2337877
+    ],
+    "most_viewed_song_ids": [
+      3751648,
+      182976,
+      179701
+    ],
+    "name": "Cartel Cash Braggadocio Rap"
+  },
+  {
+    "id": "1_1_3",
+    "level": 3,
+    "parent_cluster_id": "1_1",
+    "song_count": 1107,
+    "keywords": [
+      "like",
+      "got",
+      "just",
+      "know",
+      "cause",
+      "man",
+      "shit",
+      "come",
+      "let",
+      "make",
+      "ya",
+      "niggas",
+      "time",
+      "rock",
+      "em",
+      "say",
+      "nigga",
+      "right",
+      "fuck",
+      "black"
+    ],
+    "closest_to_centroid_song_ids": [
+      950,
+      31413,
+      4116685
+    ],
+    "most_viewed_song_ids": [
+      5268,
+      3810,
+      3061
+    ],
+    "name": "Rock-Rooted Technical Braggadocio"
+  },
+  {
+    "id": "1_1_4",
+    "level": 3,
+    "parent_cluster_id": "1_1",
+    "song_count": 989,
+    "keywords": [
+      "nigga",
+      "like",
+      "got",
+      "niggas",
+      "know",
+      "shit",
+      "fuck",
+      "just",
+      "cause",
+      "man",
+      "ya",
+      "let",
+      "come",
+      "ass",
+      "time",
+      "em",
+      "bitch",
+      "life",
+      "make",
+      "say"
+    ],
+    "closest_to_centroid_song_ids": [
+      38336,
+      5926,
+      18112
+    ],
+    "most_viewed_song_ids": [
+      20444,
+      1352,
+      695
+    ],
+    "name": "Hardcore Gangsta Street Realism"
+  },
+  {
+    "id": "1_1_5",
+    "level": 3,
+    "parent_cluster_id": "1_1",
+    "song_count": 807,
+    "keywords": [
+      "like",
+      "fuck",
+      "shit",
+      "got",
+      "just",
+      "know",
+      "em",
+      "cause",
+      "man",
+      "make",
+      "bitch",
+      "ya",
+      "fucking",
+      "life",
+      "let",
+      "niggas",
+      "time",
+      "kill",
+      "come",
+      "say"
+    ],
+    "closest_to_centroid_song_ids": [
+      35166,
+      738467,
+      251443
+    ],
+    "most_viewed_song_ids": [
+      49065,
+      2053,
+      5418766
+    ],
+    "name": "Sadistic Horrorcore Wordplay Rap"
+  },
+  {
+    "id": "1_1_6",
+    "level": 3,
+    "parent_cluster_id": "1_1",
+    "song_count": 104,
+    "keywords": [
+      "like",
+      "got",
+      "rap",
+      "just",
+      "battles",
+      "history",
+      "epic",
+      "cause",
+      "man",
+      "won",
+      "battle",
+      "ass",
+      "make",
+      "let",
+      "pt",
+      "look",
+      "begin",
+      "little",
+      "time",
+      "beat"
+    ],
+    "closest_to_centroid_song_ids": [
+      51897,
+      55863,
+      125345
+    ],
+    "most_viewed_song_ids": [
+      141867,
+      77929,
+      361992
+    ],
+    "name": "Epic Historical Figure Battle Rap"
+  },
+  {
+    "id": "1_2_0",
+    "level": 3,
+    "parent_cluster_id": "1_2",
+    "song_count": 2285,
+    "keywords": [
+      "like",
+      "got",
+      "bitch",
+      "know",
+      "girl",
+      "fuck",
+      "just",
+      "nigga",
+      "ass",
+      "money",
+      "make",
+      "shit",
+      "baby",
+      "let",
+      "love",
+      "pussy",
+      "want",
+      "cause",
+      "bitches",
+      "right"
+    ],
+    "closest_to_centroid_song_ids": [
+      512563,
+      182027,
+      2926803
+    ],
+    "most_viewed_song_ids": [
+      3720959,
+      2311139,
+      2486863
+    ],
+    "name": "Explicit Strip-Club Sex Rap"
+  },
+  {
+    "id": "1_2_1",
+    "level": 3,
+    "parent_cluster_id": "1_2",
+    "song_count": 1622,
+    "keywords": [
+      "got",
+      "like",
+      "nigga",
+      "niggas",
+      "bitch",
+      "money",
+      "know",
+      "just",
+      "fuck",
+      "shit",
+      "gucci",
+      "man",
+      "make",
+      "em",
+      "cause",
+      "say",
+      "bitches",
+      "let",
+      "love",
+      "want"
+    ],
+    "closest_to_centroid_song_ids": [
+      383713,
+      53961,
+      4635
+    ],
+    "most_viewed_song_ids": [
+      95546,
+      82860,
+      71525
+    ],
+    "name": "Gucci Trap Luxury Flex"
+  },
+  {
+    "id": "1_2_2",
+    "level": 3,
+    "parent_cluster_id": "1_2",
+    "song_count": 1235,
+    "keywords": [
+      "like",
+      "nigga",
+      "got",
+      "niggas",
+      "know",
+      "just",
+      "shit",
+      "bitch",
+      "money",
+      "fuck",
+      "cause",
+      "em",
+      "make",
+      "let",
+      "say",
+      "man",
+      "time",
+      "life",
+      "real",
+      "tell"
+    ],
+    "closest_to_centroid_song_ids": [
+      2603,
+      49607,
+      217121
+    ],
+    "most_viewed_song_ids": [
+      324980,
+      2032777,
+      72171
+    ],
+    "name": "Real-Life Hustle Flex Rap"
+  },
+  {
+    "id": "1_2_3",
+    "level": 3,
+    "parent_cluster_id": "1_2",
+    "song_count": 842,
+    "keywords": [
+      "like",
+      "got",
+      "high",
+      "know",
+      "smoke",
+      "just",
+      "bitch",
+      "fuck",
+      "nigga",
+      "shit",
+      "let",
+      "weed",
+      "roll",
+      "da",
+      "cause",
+      "need",
+      "niggas",
+      "man",
+      "time",
+      "love"
+    ],
+    "closest_to_centroid_song_ids": [
+      66833,
+      1850593,
+      58392
+    ],
+    "most_viewed_song_ids": [
+      507478,
+      423398,
+      2457826
+    ],
+    "name": "Weed-Heavy Smoke & Sip Flex Rap"
+  },
+  {
+    "id": "1_2_4",
+    "level": 3,
+    "parent_cluster_id": "1_2",
+    "song_count": 533,
+    "keywords": [
+      "like",
+      "got",
+      "nigga",
+      "bitch",
+      "know",
+      "money",
+      "niggas",
+      "fuck",
+      "shit",
+      "just",
+      "baby",
+      "cause",
+      "em",
+      "let",
+      "say",
+      "bitches",
+      "young",
+      "ya",
+      "make",
+      "man"
+    ],
+    "closest_to_centroid_song_ids": [
+      95891,
+      52288,
+      52247
+    ],
+    "most_viewed_song_ids": [
+      731073,
+      54727,
+      2554106
+    ],
+    "name": "Young Money Menace Rap"
+  },
+  {
+    "id": "1_2_5",
+    "level": 3,
+    "parent_cluster_id": "1_2",
+    "song_count": 446,
+    "keywords": [
+      "like",
+      "got",
+      "nigga",
+      "know",
+      "bitch",
+      "just",
+      "shit",
+      "niggas",
+      "fuck",
+      "cause",
+      "ride",
+      "em",
+      "man",
+      "money",
+      "make",
+      "ya",
+      "let",
+      "big",
+      "say",
+      "baby"
+    ],
+    "closest_to_centroid_song_ids": [
+      171431,
+      63528,
+      43486
+    ],
+    "most_viewed_song_ids": [
+      181906,
+      53272,
+      3876995
+    ],
+    "name": "Southern Custom-Car Flex Rap"
+  },
+  {
+    "id": "1_2_6",
+    "level": 3,
+    "parent_cluster_id": "1_2",
+    "song_count": 275,
+    "keywords": [
+      "baby",
+      "like",
+      "got",
+      "niggas",
+      "nigga",
+      "know",
+      "money",
+      "just",
+      "fuck",
+      "bitch",
+      "shit",
+      "ayy",
+      "want",
+      "em",
+      "let",
+      "time",
+      "boy",
+      "tell",
+      "right",
+      "hit"
+    ],
+    "closest_to_centroid_song_ids": [
+      85936,
+      1788344,
+      749550
+    ],
+    "most_viewed_song_ids": [
+      653082,
+      2347502,
+      668147
+    ],
+    "name": "Street Hustle Crew Rap"
+  },
+  {
+    "id": "1_2_7",
+    "level": 3,
+    "parent_cluster_id": "1_2",
+    "song_count": 198,
+    "keywords": [
+      "bitch",
+      "like",
+      "got",
+      "fuck",
+      "nigga",
+      "bitches",
+      "swag",
+      "know",
+      "god",
+      "boy",
+      "based",
+      "basedgod",
+      "man",
+      "soulja",
+      "dick",
+      "look",
+      "cause",
+      "hannenin",
+      "niggas",
+      "shit"
+    ],
+    "closest_to_centroid_song_ids": [
+      4625,
+      2959,
+      69765
+    ],
+    "most_viewed_song_ids": [
+      1711,
+      2711,
+      65391
+    ],
+    "name": "Based God Swag-and-Hoes Rap"
+  },
+  {
+    "id": "1_2_8",
+    "level": 3,
+    "parent_cluster_id": "1_2",
+    "song_count": 135,
+    "keywords": [
+      "like",
+      "nigga",
+      "got",
+      "niggas",
+      "bitch",
+      "fuck",
+      "know",
+      "shit",
+      "just",
+      "em",
+      "ap",
+      "flacko",
+      "money",
+      "man",
+      "cause",
+      "ferg",
+      "gon",
+      "bitches",
+      "make",
+      "hoes"
+    ],
+    "closest_to_centroid_song_ids": [
+      564652,
+      58374,
+      71897
+    ],
+    "most_viewed_song_ids": [
+      3121669,
+      54160,
+      103700
+    ],
+    "name": "A$AP Mob Street-Luxury Flex Rap"
+  },
+  {
+    "id": "1_3_0",
+    "level": 3,
+    "parent_cluster_id": "1_3",
+    "song_count": 2261,
+    "keywords": [
+      "like",
+      "just",
+      "got",
+      "know",
+      "shit",
+      "life",
+      "cause",
+      "fuck",
+      "time",
+      "make",
+      "let",
+      "say",
+      "way",
+      "want",
+      "man",
+      "right",
+      "feel",
+      "tell",
+      "em",
+      "need"
+    ],
+    "closest_to_centroid_song_ids": [
+      83145,
+      2432101,
+      115817
+    ],
+    "most_viewed_song_ids": [
+      703734,
+      58497,
+      376091
+    ],
+    "name": "Self-Made Come-Up Rap"
+  },
+  {
+    "id": "1_3_1",
+    "level": 3,
+    "parent_cluster_id": "1_3",
+    "song_count": 1566,
+    "keywords": [
+      "like",
+      "know",
+      "just",
+      "got",
+      "shit",
+      "nigga",
+      "niggas",
+      "fuck",
+      "time",
+      "need",
+      "let",
+      "cause",
+      "love",
+      "make",
+      "feel",
+      "life",
+      "say",
+      "way",
+      "tell",
+      "want"
+    ],
+    "closest_to_centroid_song_ids": [
+      5692785,
+      2433700,
+      2444956
+    ],
+    "most_viewed_song_ids": [
+      3412272,
+      2842078,
+      3691324
+    ],
+    "name": "Hard-Won Self-Made Reflections"
+  },
+  {
+    "id": "1_3_2",
+    "level": 3,
+    "parent_cluster_id": "1_3",
+    "song_count": 1377,
+    "keywords": [
+      "like",
+      "just",
+      "know",
+      "got",
+      "life",
+      "shit",
+      "cause",
+      "nigga",
+      "love",
+      "make",
+      "niggas",
+      "time",
+      "say",
+      "fuck",
+      "god",
+      "man",
+      "way",
+      "let",
+      "mama",
+      "feel"
+    ],
+    "closest_to_centroid_song_ids": [
+      76940,
+      73995,
+      4538579
+    ],
+    "most_viewed_song_ids": [
+      3047134,
+      3756527,
+      84641
+    ],
+    "name": "Mother-Guided Conscious Rap"
+  },
+  {
+    "id": "1_3_3",
+    "level": 3,
+    "parent_cluster_id": "1_3",
+    "song_count": 825,
+    "keywords": [
+      "like",
+      "know",
+      "got",
+      "just",
+      "nigga",
+      "niggas",
+      "shit",
+      "fuck",
+      "cause",
+      "man",
+      "bitch",
+      "make",
+      "say",
+      "love",
+      "let",
+      "time",
+      "tell",
+      "right",
+      "need",
+      "em"
+    ],
+    "closest_to_centroid_song_ids": [
+      5305,
+      54411,
+      3236
+    ],
+    "most_viewed_song_ids": [
+      3315890,
+      51899,
+      2266961
+    ],
+    "name": "Luxury Swagger & Lyrical Flexes"
+  },
+  {
+    "id": "1_3_4",
+    "level": 3,
+    "parent_cluster_id": "1_3",
+    "song_count": 426,
+    "keywords": [
+      "like",
+      "know",
+      "got",
+      "god",
+      "just",
+      "life",
+      "em",
+      "cause",
+      "let",
+      "make",
+      "right",
+      "say",
+      "tell",
+      "time",
+      "way",
+      "man",
+      "love",
+      "gon",
+      "need",
+      "jesus"
+    ],
+    "closest_to_centroid_song_ids": [
+      2283571,
+      5858127,
+      149976
+    ],
+    "most_viewed_song_ids": [
+      2468090,
+      4824672,
+      2472231
+    ],
+    "name": "Faith-Centered Christian Rap"
+  },
+  {
+    "id": "1_3_5",
+    "level": 3,
+    "parent_cluster_id": "1_3",
+    "song_count": 313,
+    "keywords": [
+      "like",
+      "black",
+      "got",
+      "just",
+      "man",
+      "fuck",
+      "know",
+      "nigga",
+      "shit",
+      "want",
+      "right",
+      "cause",
+      "people",
+      "let",
+      "say",
+      "niggas",
+      "make",
+      "life",
+      "bitch",
+      "tell"
+    ],
+    "closest_to_centroid_song_ids": [
+      6059969,
+      188796,
+      2331265
+    ],
+    "most_viewed_song_ids": [
+      3039923,
+      3047142,
+      92853
+    ],
+    "name": "Black Social Justice Protest Rap"
+  },
+  {
+    "id": "1_4_0",
+    "level": 3,
+    "parent_cluster_id": "1_4",
+    "song_count": 1720,
+    "keywords": [
+      "know",
+      "got",
+      "nigga",
+      "like",
+      "niggas",
+      "just",
+      "shit",
+      "love",
+      "fuck",
+      "gon",
+      "cause",
+      "bitch",
+      "make",
+      "say",
+      "life",
+      "want",
+      "em",
+      "real",
+      "let",
+      "tryna"
+    ],
+    "closest_to_centroid_song_ids": [
+      5466931,
+      4618990,
+      6004554
+    ],
+    "most_viewed_song_ids": [
+      2890553,
+      5865445,
+      6035012
+    ],
+    "name": "Life, Loss & Loyalty Rap"
+  },
+  {
+    "id": "1_4_1",
+    "level": 3,
+    "parent_cluster_id": "1_4",
+    "song_count": 1343,
+    "keywords": [
+      "nigga",
+      "like",
+      "niggas",
+      "got",
+      "bitch",
+      "shit",
+      "fuck",
+      "know",
+      "just",
+      "money",
+      "em",
+      "want",
+      "real",
+      "cause",
+      "make",
+      "gon",
+      "say",
+      "bitches",
+      "man",
+      "lil"
+    ],
+    "closest_to_centroid_song_ids": [
+      2457091,
+      2383537,
+      508862
+    ],
+    "most_viewed_song_ids": [
+      317161,
+      214746,
+      217207
+    ],
+    "name": "Money, Muscle & Bitches Rap"
+  },
+  {
+    "id": "1_4_2",
+    "level": 3,
+    "parent_cluster_id": "1_4",
+    "song_count": 1179,
+    "keywords": [
+      "nigga",
+      "bitch",
+      "got",
+      "like",
+      "niggas",
+      "shit",
+      "fuck",
+      "know",
+      "gon",
+      "gang",
+      "just",
+      "em",
+      "lil",
+      "hit",
+      "ayy",
+      "cause",
+      "say",
+      "want",
+      "let",
+      "make"
+    ],
+    "closest_to_centroid_song_ids": [
+      3645086,
+      5902909,
+      6576310
+    ],
+    "most_viewed_song_ids": [
+      3266784,
+      3497224,
+      3323308
+    ],
+    "name": "Hit Squad Gunplay Rap"
+  },
+  {
+    "id": "1_4_3",
+    "level": 3,
+    "parent_cluster_id": "1_4",
+    "song_count": 1108,
+    "keywords": [
+      "got",
+      "bitch",
+      "niggas",
+      "like",
+      "nigga",
+      "shit",
+      "know",
+      "fuck",
+      "money",
+      "just",
+      "bang",
+      "man",
+      "cause",
+      "let",
+      "gang",
+      "ayy",
+      "em",
+      "boy",
+      "want",
+      "say"
+    ],
+    "closest_to_centroid_song_ids": [
+      86140,
+      3044782,
+      132684
+    ],
+    "most_viewed_song_ids": [
+      3175124,
+      221021,
+      4119299
+    ],
+    "name": "Bang-Heavy O-Block Drill Anthems"
+  },
+  {
+    "id": "1_4_4",
+    "level": 3,
+    "parent_cluster_id": "1_4",
+    "song_count": 321,
+    "keywords": [
+      "like",
+      "got",
+      "nigga",
+      "niggas",
+      "know",
+      "gang",
+      "huh",
+      "shit",
+      "bitch",
+      "look",
+      "fuck",
+      "em",
+      "just",
+      "gon",
+      "woo",
+      "make",
+      "cause",
+      "let",
+      "block",
+      "tryna"
+    ],
+    "closest_to_centroid_song_ids": [
+      5483007,
+      5765726,
+      5336228
+    ],
+    "most_viewed_song_ids": [
+      466028,
+      4700838,
+      2453486
+    ],
+    "name": "Woo-Focused Brooklyn Drill Warfare"
+  },
+  {
+    "id": "1_4_5",
+    "level": 3,
+    "parent_cluster_id": "1_4",
+    "song_count": 139,
+    "keywords": [
+      "nigga",
+      "like",
+      "got",
+      "just",
+      "niggas",
+      "lil",
+      "shit",
+      "know",
+      "kodak",
+      "money",
+      "baby",
+      "say",
+      "boy",
+      "fuck",
+      "cause",
+      "man",
+      "bitch",
+      "time",
+      "make",
+      "love"
+    ],
+    "closest_to_centroid_song_ids": [
+      2918434,
+      2496331,
+      398107
+    ],
+    "most_viewed_song_ids": [
+      2939983,
+      570825,
+      745953
+    ],
+    "name": "Kodak\u2019s Project Baby Street Tales"
+  },
+  {
+    "id": "2_0_0",
+    "level": 3,
+    "parent_cluster_id": "2_0",
+    "song_count": 1996,
+    "keywords": [
+      "like",
+      "nigga",
+      "bitch",
+      "got",
+      "niggas",
+      "shit",
+      "know",
+      "fuck",
+      "just",
+      "ayy",
+      "gon",
+      "em",
+      "money",
+      "hit",
+      "lil",
+      "let",
+      "want",
+      "cause",
+      "make",
+      "gang"
+    ],
+    "closest_to_centroid_song_ids": [
+      5518081,
+      5369346,
+      5569992
+    ],
+    "most_viewed_song_ids": [
+      2904673,
+      5465132,
+      5701202
+    ],
+    "name": "Rich-Gang Hustle Flex Trap"
+  },
+  {
+    "id": "2_0_1",
+    "level": 3,
+    "parent_cluster_id": "2_0",
+    "song_count": 1975,
+    "keywords": [
+      "like",
+      "got",
+      "nigga",
+      "bitch",
+      "know",
+      "niggas",
+      "fuck",
+      "shit",
+      "just",
+      "money",
+      "em",
+      "gon",
+      "woo",
+      "ayy",
+      "want",
+      "let",
+      "lil",
+      "bitches",
+      "baby",
+      "make"
+    ],
+    "closest_to_centroid_song_ids": [
+      3355287,
+      3296491,
+      2444714
+    ],
+    "most_viewed_song_ids": [
+      2845980,
+      3876994,
+      496445
+    ],
+    "name": "Baby-Focused Slime Flex Trap"
+  },
+  {
+    "id": "2_0_2",
+    "level": 3,
+    "parent_cluster_id": "2_0",
+    "song_count": 1931,
+    "keywords": [
+      "know",
+      "nigga",
+      "got",
+      "like",
+      "niggas",
+      "shit",
+      "just",
+      "fuck",
+      "bitch",
+      "gon",
+      "love",
+      "cause",
+      "em",
+      "say",
+      "make",
+      "tryna",
+      "time",
+      "money",
+      "want",
+      "let"
+    ],
+    "closest_to_centroid_song_ids": [
+      3524203,
+      5557870,
+      6550797
+    ],
+    "most_viewed_song_ids": [
+      3290166,
+      2441276,
+      3186102
+    ],
+    "name": "Street Loyalty, Love & Consequences"
+  },
+  {
+    "id": "2_0_3",
+    "level": 3,
+    "parent_cluster_id": "2_0",
+    "song_count": 1896,
+    "keywords": [
+      "like",
+      "bitch",
+      "got",
+      "fuck",
+      "ayy",
+      "just",
+      "nigga",
+      "know",
+      "shit",
+      "niggas",
+      "money",
+      "huh",
+      "lil",
+      "want",
+      "gon",
+      "let",
+      "cause",
+      "ma",
+      "make",
+      "hit"
+    ],
+    "closest_to_centroid_song_ids": [
+      4774224,
+      4520145,
+      5230136
+    ],
+    "most_viewed_song_ids": [
+      2851948,
+      2451433,
+      3029830
+    ],
+    "name": "Ma-Laced Pill-Popping Street Flex Trap"
+  },
+  {
+    "id": "2_0_4",
+    "level": 3,
+    "parent_cluster_id": "2_0",
+    "song_count": 652,
+    "keywords": [
+      "nigga",
+      "like",
+      "niggas",
+      "bitch",
+      "got",
+      "shit",
+      "know",
+      "fuck",
+      "gang",
+      "bang",
+      "just",
+      "ayy",
+      "em",
+      "gon",
+      "money",
+      "let",
+      "man",
+      "cause",
+      "huh",
+      "say"
+    ],
+    "closest_to_centroid_song_ids": [
+      732993,
+      5613685,
+      3849569
+    ],
+    "most_viewed_song_ids": [
+      92464,
+      73573,
+      530472
+    ],
+    "name": "Man-Bang Chicago Drill Dowladda"
+  },
+  {
+    "id": "2_0_5",
+    "level": 3,
+    "parent_cluster_id": "2_0",
+    "song_count": 232,
+    "keywords": [
+      "like",
+      "niggas",
+      "got",
+      "know",
+      "ayy",
+      "nigga",
+      "gang",
+      "bitch",
+      "em",
+      "gon",
+      "shit",
+      "fuck",
+      "woo",
+      "look",
+      "huh",
+      "just",
+      "baow",
+      "hit",
+      "cause",
+      "boom"
+    ],
+    "closest_to_centroid_song_ids": [
+      5310330,
+      4865816,
+      5540011
+    ],
+    "most_viewed_song_ids": [
+      5988390,
+      5749162,
+      526923
+    ],
+    "name": "Baow-Boom Zoo York Drill Flex"
+  },
+  {
+    "id": "2_0_6",
+    "level": 3,
+    "parent_cluster_id": "2_0",
+    "song_count": 182,
+    "keywords": [
+      "nigga",
+      "got",
+      "bitch",
+      "like",
+      "fuck",
+      "ayy",
+      "shit",
+      "just",
+      "niggas",
+      "money",
+      "know",
+      "damn",
+      "dolph",
+      "em",
+      "real",
+      "trap",
+      "let",
+      "lil",
+      "bitches",
+      "woo"
+    ],
+    "closest_to_centroid_song_ids": [
+      3020851,
+      2426048,
+      3271776
+    ],
+    "most_viewed_song_ids": [
+      526260,
+      2295548,
+      2972423
+    ],
+    "name": "Young Dolph Money-and-Trap Flex Anthems"
+  },
+  {
+    "id": "2_1_0",
+    "level": 3,
+    "parent_cluster_id": "2_1",
+    "song_count": 2017,
+    "keywords": [
+      "like",
+      "just",
+      "got",
+      "know",
+      "shit",
+      "nigga",
+      "niggas",
+      "fuck",
+      "cause",
+      "man",
+      "love",
+      "let",
+      "make",
+      "time",
+      "say",
+      "life",
+      "need",
+      "em",
+      "right",
+      "tell"
+    ],
+    "closest_to_centroid_song_ids": [
+      2148782,
+      2416826,
+      3299515
+    ],
+    "most_viewed_song_ids": [
+      599427,
+      2413549,
+      599388
+    ],
+    "name": "Street-Born Spiritual Defiance"
+  },
+  {
+    "id": "2_1_1",
+    "level": 3,
+    "parent_cluster_id": "2_1",
+    "song_count": 1637,
+    "keywords": [
+      "like",
+      "just",
+      "know",
+      "got",
+      "cause",
+      "love",
+      "shit",
+      "time",
+      "life",
+      "feel",
+      "make",
+      "fuck",
+      "let",
+      "say",
+      "need",
+      "want",
+      "way",
+      "think",
+      "tell",
+      "really"
+    ],
+    "closest_to_centroid_song_ids": [
+      3215239,
+      4891589,
+      3009694
+    ],
+    "most_viewed_song_ids": [
+      81672,
+      3350680,
+      2329765
+    ],
+    "name": "Vulnerable Pain-to-Power Rap"
+  },
+  {
+    "id": "2_1_2",
+    "level": 3,
+    "parent_cluster_id": "2_1",
+    "song_count": 1219,
+    "keywords": [
+      "like",
+      "got",
+      "just",
+      "shit",
+      "know",
+      "fuck",
+      "nigga",
+      "em",
+      "niggas",
+      "cause",
+      "bitch",
+      "man",
+      "make",
+      "say",
+      "let",
+      "time",
+      "think",
+      "want",
+      "rap",
+      "need"
+    ],
+    "closest_to_centroid_song_ids": [
+      2333764,
+      2950408,
+      543056
+    ],
+    "most_viewed_song_ids": [
+      3106424,
+      3937522,
+      103554
+    ],
+    "name": "Technical Bar-Heavy Rap"
+  },
+  {
+    "id": "2_1_3",
+    "level": 3,
+    "parent_cluster_id": "2_1",
+    "song_count": 819,
+    "keywords": [
+      "like",
+      "got",
+      "just",
+      "shit",
+      "fuck",
+      "know",
+      "cause",
+      "bitch",
+      "nigga",
+      "let",
+      "man",
+      "em",
+      "right",
+      "make",
+      "time",
+      "say",
+      "need",
+      "niggas",
+      "life",
+      "tell"
+    ],
+    "closest_to_centroid_song_ids": [
+      439844,
+      1030,
+      251132
+    ],
+    "most_viewed_song_ids": [
+      2922155,
+      57234,
+      276502
+    ],
+    "name": "Breakthrough Bravado and Rebel Momentum"
+  },
+  {
+    "id": "2_1_4",
+    "level": 3,
+    "parent_cluster_id": "2_1",
+    "song_count": 755,
+    "keywords": [
+      "like",
+      "got",
+      "know",
+      "shit",
+      "nigga",
+      "fuck",
+      "em",
+      "just",
+      "cause",
+      "bitch",
+      "let",
+      "make",
+      "niggas",
+      "say",
+      "come",
+      "ya",
+      "want",
+      "man",
+      "really",
+      "love"
+    ],
+    "closest_to_centroid_song_ids": [
+      260550,
+      3278158,
+      44767
+    ],
+    "most_viewed_song_ids": [
+      743272,
+      49799,
+      686628
+    ],
+    "name": "Psychotic Horrorcore Rampage"
+  },
+  {
+    "id": "2_1_5",
+    "level": 3,
+    "parent_cluster_id": "2_1",
+    "song_count": 472,
+    "keywords": [
+      "like",
+      "nigga",
+      "got",
+      "bitch",
+      "shit",
+      "niggas",
+      "fuck",
+      "know",
+      "just",
+      "cause",
+      "em",
+      "feat",
+      "let",
+      "make",
+      "man",
+      "want",
+      "time",
+      "say",
+      "life",
+      "love"
+    ],
+    "closest_to_centroid_song_ids": [
+      3853916,
+      2308084,
+      2473973
+    ],
+    "most_viewed_song_ids": [
+      711649,
+      2814503,
+      49611
+    ],
+    "name": "Underground Feature-Fueled Chaos"
+  },
+  {
+    "id": "2_1_6",
+    "level": 3,
+    "parent_cluster_id": "2_1",
+    "song_count": 227,
+    "keywords": [
+      "like",
+      "got",
+      "shit",
+      "know",
+      "just",
+      "cause",
+      "fuck",
+      "bitch",
+      "em",
+      "let",
+      "make",
+      "country",
+      "man",
+      "say",
+      "come",
+      "time",
+      "way",
+      "boy",
+      "ride",
+      "need"
+    ],
+    "closest_to_centroid_song_ids": [
+      3213017,
+      2431117,
+      4658923
+    ],
+    "most_viewed_song_ids": [
+      415336,
+      2018,
+      138303
+    ],
+    "name": "Country Boy Outlaw Rap"
+  },
+  {
+    "id": "2_1_7",
+    "level": 3,
+    "parent_cluster_id": "2_1",
+    "song_count": 128,
+    "keywords": [
+      "like",
+      "know",
+      "shit",
+      "just",
+      "got",
+      "fuck",
+      "man",
+      "life",
+      "cause",
+      "love",
+      "right",
+      "time",
+      "money",
+      "feel",
+      "em",
+      "let",
+      "bitch",
+      "come",
+      "make",
+      "real"
+    ],
+    "closest_to_centroid_song_ids": [
+      145649,
+      528266,
+      146571
+    ],
+    "most_viewed_song_ids": [
+      4519154,
+      519316,
+      197351
+    ],
+    "name": "Real Talk and Rising Riches Rap"
+  },
+  {
+    "id": "3_0_0",
+    "level": 3,
+    "parent_cluster_id": "3_0",
+    "song_count": 1580,
+    "keywords": [
+      "la",
+      "le",
+      "les",
+      "est",
+      "pas",
+      "dans",
+      "je",
+      "des",
+      "et",
+      "tu",
+      "en",
+      "ai",
+      "que",
+      "comme",
+      "suis",
+      "qu",
+      "du",
+      "mon",
+      "pour",
+      "sur"
+    ],
+    "closest_to_centroid_song_ids": [
+      2310321,
+      2887254,
+      6666677
+    ],
+    "most_viewed_song_ids": [
+      111833,
+      3844246,
+      88936
+    ],
+    "name": "Rap de rue mafieux et explosif"
+  },
+  {
+    "id": "3_0_1",
+    "level": 3,
+    "parent_cluster_id": "3_0",
+    "song_count": 1210,
+    "keywords": [
+      "je",
+      "la",
+      "et",
+      "est",
+      "le",
+      "les",
+      "tu",
+      "que",
+      "pas",
+      "des",
+      "en",
+      "dans",
+      "qu",
+      "moi",
+      "qui",
+      "ai",
+      "ne",
+      "pour",
+      "si",
+      "il"
+    ],
+    "closest_to_centroid_song_ids": [
+      3293948,
+      5320033,
+      2871456
+    ],
+    "most_viewed_song_ids": [
+      150485,
+      266756,
+      203940
+    ],
+    "name": "French Songs of Loss and Farewell"
+  },
+  {
+    "id": "3_0_2",
+    "level": 3,
+    "parent_cluster_id": "3_0",
+    "song_count": 934,
+    "keywords": [
+      "la",
+      "le",
+      "les",
+      "pas",
+      "est",
+      "dans",
+      "ai",
+      "je",
+      "tu",
+      "en",
+      "qu",
+      "et",
+      "des",
+      "suis",
+      "que",
+      "pour",
+      "ma",
+      "mon",
+      "\u00e7a",
+      "moi"
+    ],
+    "closest_to_centroid_song_ids": [
+      4991515,
+      5748508,
+      1778331
+    ],
+    "most_viewed_song_ids": [
+      2834671,
+      2833790,
+      2835042
+    ],
+    "name": "Street Rap d\u2019\u00c9vasion et de Remords"
+  },
+  {
+    "id": "3_0_3",
+    "level": 3,
+    "parent_cluster_id": "3_0",
+    "song_count": 720,
+    "keywords": [
+      "la",
+      "est",
+      "tu",
+      "je",
+      "pas",
+      "elle",
+      "le",
+      "que",
+      "moi",
+      "et",
+      "ai",
+      "les",
+      "qu",
+      "dans",
+      "ma",
+      "en",
+      "suis",
+      "pour",
+      "toi",
+      "mon"
+    ],
+    "closest_to_centroid_song_ids": [
+      5126955,
+      2889114,
+      2467908
+    ],
+    "most_viewed_song_ids": [
+      369385,
+      3632242,
+      4009405
+    ],
+    "name": "French Romantic Street Rap"
+  },
+  {
+    "id": "3_0_4",
+    "level": 3,
+    "parent_cluster_id": "3_0",
+    "song_count": 649,
+    "keywords": [
+      "la",
+      "je",
+      "est",
+      "le",
+      "pas",
+      "les",
+      "que",
+      "et",
+      "dans",
+      "qu",
+      "ai",
+      "en",
+      "tu",
+      "des",
+      "pour",
+      "mais",
+      "moi",
+      "mon",
+      "plus",
+      "qui"
+    ],
+    "closest_to_centroid_song_ids": [
+      5270512,
+      1787970,
+      3823514
+    ],
+    "most_viewed_song_ids": [
+      275902,
+      2317799,
+      150838
+    ],
+    "name": "M\u00e9lancolie existentielle et d\u00e9sillusion"
+  },
+  {
+    "id": "3_1_0",
+    "level": 3,
+    "parent_cluster_id": "3_1",
+    "song_count": 1578,
+    "keywords": [
+      "la",
+      "pas",
+      "est",
+      "les",
+      "le",
+      "dans",
+      "ai",
+      "qu",
+      "en",
+      "tu",
+      "des",
+      "suis",
+      "et",
+      "je",
+      "que",
+      "pour",
+      "\u00e7a",
+      "ma",
+      "mon",
+      "du"
+    ],
+    "closest_to_centroid_song_ids": [
+      4363318,
+      3227727,
+      5748499
+    ],
+    "most_viewed_song_ids": [
+      2109144,
+      3797075,
+      2332451
+    ],
+    "name": "Trafic, Armes et R\u00e8glements de Comptes"
+  },
+  {
+    "id": "3_1_1",
+    "level": 3,
+    "parent_cluster_id": "3_1",
+    "song_count": 1417,
+    "keywords": [
+      "la",
+      "pas",
+      "les",
+      "est",
+      "le",
+      "dans",
+      "tu",
+      "ai",
+      "des",
+      "qu",
+      "en",
+      "et",
+      "que",
+      "suis",
+      "je",
+      "pour",
+      "\u00e7a",
+      "du",
+      "mon",
+      "qui"
+    ],
+    "closest_to_centroid_song_ids": [
+      2026861,
+      70366,
+      1742393
+    ],
+    "most_viewed_song_ids": [
+      4388058,
+      2456383,
+      2849098
+    ],
+    "name": "Mort, Deuil et Fatalisme de Rue"
+  },
+  {
+    "id": "3_1_2",
+    "level": 3,
+    "parent_cluster_id": "3_1",
+    "song_count": 1041,
+    "keywords": [
+      "la",
+      "le",
+      "les",
+      "est",
+      "dans",
+      "pas",
+      "qu",
+      "des",
+      "comme",
+      "suis",
+      "ai",
+      "et",
+      "en",
+      "tu",
+      "que",
+      "je",
+      "pour",
+      "mon",
+      "sur",
+      "ma"
+    ],
+    "closest_to_centroid_song_ids": [
+      3072073,
+      4041432,
+      615548
+    ],
+    "most_viewed_song_ids": [
+      3242364,
+      2685480,
+      5891048
+    ],
+    "name": "Rap de Rue, Drogue et D\u00e9fiance envers les Flics"
+  },
+  {
+    "id": "3_1_3",
+    "level": 3,
+    "parent_cluster_id": "3_1",
+    "song_count": 966,
+    "keywords": [
+      "la",
+      "est",
+      "les",
+      "le",
+      "pas",
+      "dans",
+      "tu",
+      "des",
+      "ai",
+      "qu",
+      "et",
+      "en",
+      "suis",
+      "que",
+      "\u00e7a",
+      "pour",
+      "du",
+      "comme",
+      "mon",
+      "qui"
+    ],
+    "closest_to_centroid_song_ids": [
+      5637660,
+      5637656,
+      6660561
+    ],
+    "most_viewed_song_ids": [
+      734874,
+      3145533,
+      4445253
+    ],
+    "name": "Narco-Rap, Fuite et Guerre aux Keufs"
+  },
+  {
+    "id": "3_1_4",
+    "level": 3,
+    "parent_cluster_id": "3_1",
+    "song_count": 45,
+    "keywords": [
+      "la",
+      "les",
+      "le",
+      "est",
+      "dans",
+      "des",
+      "pas",
+      "tu",
+      "en",
+      "qu",
+      "comme",
+      "mon",
+      "ai",
+      "\u00e7a",
+      "et",
+      "que",
+      "sheguey",
+      "du",
+      "sur",
+      "ouais"
+    ],
+    "closest_to_centroid_song_ids": [
+      623087,
+      421259,
+      2378149
+    ],
+    "most_viewed_song_ids": [
+      421259,
+      550838,
+      623087
+    ],
+    "name": "Gradur et le Sheguey Squad"
+  }
+]

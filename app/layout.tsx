@@ -1,21 +1,21 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Fraunces, Work_Sans } from "next/font/google";
 import "./globals.css";
 import SiteNav from "./components/site-nav";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const fraunces = Fraunces({
+  variable: "--font-display",
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const workSans = Work_Sans({
+  variable: "--font-body",
   subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
   title: "Lyric Categorizer",
-  description: "Predict artists from lyrics and explore a UMAP map of song semantics.",
+  description: "Predict artists from lyrics and explore hierarchical song clusters on a UMAP projection.",
 };
 
 export default function RootLayout({
@@ -26,12 +26,12 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${fraunces.variable} ${workSans.variable} h-full antialiased`}
     >
-      <body className="min-h-full bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.95),_rgba(228,233,242,0.88)_45%,_rgba(209,219,231,0.78)_100%)] text-foreground dark:bg-[radial-gradient(circle_at_top,_rgba(48,54,64,0.92),_rgba(17,24,39,0.97)_50%,_rgba(3,7,18,1)_100%)]">
-        <div className="flex min-h-screen flex-col">
+      <body className="h-full overflow-hidden bg-[radial-gradient(circle_at_top,_rgba(246,236,216,0.9),_rgba(232,220,194,0.9)_45%,_rgba(216,198,159,0.85)_100%)] text-foreground">
+        <div className="flex h-full flex-col overflow-hidden">
           <SiteNav />
-          <main className="flex-1">{children}</main>
+          <main className="min-h-0 flex-1 overflow-y-auto">{children}</main>
         </div>
       </body>
     </html>
