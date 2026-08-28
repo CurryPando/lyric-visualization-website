@@ -11,6 +11,9 @@ export const config = {
   runtime: 'edge',
 };
 
+// Allow up to 40s for the Modal call before Vercel cuts off the function
+export const maxDuration = 40;
+
 export default async function handler(req: Request): Promise<Response> {
   // 1. Only allow POST requests
   if (req.method !== 'POST') {
