@@ -7,12 +7,9 @@ const ratelimit = new Ratelimit({
   analytics: true,
 })
 
-export const config = {
-  runtime: 'edge',
-};
-
+export const runtime = 'nodejs';
 // Allow up to 40s for the Modal call before Vercel cuts off the function
-export const maxDuration = 40;
+export const maxDuration = 60;
 
 export default async function handler(req: Request): Promise<Response> {
   // 1. Only allow POST requests
