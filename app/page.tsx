@@ -1,11 +1,15 @@
 'use client';
 import React, { useState } from 'react';
+import PredictionResult from '@/app/components/prediction-result';
 
-type PredictionResult = Record<string, unknown>;
+type Prediction = {
+  predicted_class: number;
+  confidence_scores: number[];
+};
 
 export default function Predictor() {
   const [inputText, setInputText] = useState('');
-  const [prediction, setPrediction] = useState<PredictionResult | null>(null);
+  const [prediction, setPrediction] = useState<Prediction | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -30,12 +34,10 @@ export default function Predictor() {
       const data = await response.json();
 
       if (!response.ok) {
-        console.error(data.error || 'Something went wrong running inference.');
-        // throw new Error(data.error || 'Something went wrong running inference.');
+        throw new Error(data.error || 'Something went wrong running inference.');
       }
 
-      // Set your result state (adjust 'data.prediction' depending on your exact Modal output schema)
-      setPrediction(data);
+      setPrediction(data as Prediction);
     } catch (err: unknown) {
       const message = err instanceof Error ? err.message : 'Something went wrong running inference.';
       console.error(message);
@@ -100,10 +102,10 @@ export default function Predictor() {
 
       {prediction && (
         <div className="rounded-md border-2 border-black/15 bg-white/90 p-6 shadow-[0_10px_0_rgba(43,29,18,0.08)]">
-          <h3 className="mb-4 text-lg font-semibold text-black">Model Output</h3>
-          <pre className="overflow-x-auto whitespace-pre-wrap break-words rounded-md bg-black px-4 py-4 text-sm text-white">
-            {JSON.stringify(prediction, null, 2)}
-          </pre>
+          <PredictionResult
+            predictedClass={prediction.predicted_class}
+            confidenceScores={prediction.confidence_scores}
+          />
         </div>
       )}
     </div>
