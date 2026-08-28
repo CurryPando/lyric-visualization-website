@@ -1,5 +1,6 @@
 import { Ratelimit } from "@upstash/ratelimit"
 import { Redis } from "@upstash/redis"
+import type { VercelRequest, VercelResponse } from "@vercel/node"
 
 const ratelimit = new Ratelimit({
   redis: Redis.fromEnv(),
@@ -13,47 +14,37 @@ export const config = {
 // Allow up to 40s for the Modal call before Vercel cuts off the function
 export const maxDuration = 40;
 
-export default async function handler(req: Request): Promise<Response> {
+export default async function handler(req: VercelRequest, res: VercelResponse) {
   // 1. Only allow POST requests
   if (req.method !== 'POST') {
-    return new Response(JSON.stringify({ error: 'Method not allowed' }), {
-      status: 405,
-      headers: { 'Content-Type': 'application/json' },
-    });
+    return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const ip = req.headers.get('x-forwarded-for') ?? "127.0.0.1";
+  const forwardedFor = req.headers['x-forwarded-for'];
+  const ip = (Array.isArray(forwardedFor) ? forwardedFor[0] : forwardedFor) ?? "127.0.0.1";
 
   const { success, limit, remaining, reset } = await ratelimit.limit(ip);
   if (!success) {
-    return new Response(
-      JSON.stringify({ error: 'Too many requests. Please slow down.' }),
-      {
-        status: 429,
-        headers: {
-          'Content-Type': 'application/json',
-          'X-RateLimit-Limit': limit.toString(),
-          'X-RateLimit-Remaining': remaining.toString(),
-          'X-RateLimit-Reset': reset.toString()
-        }
-      }
-    );
+    res.setHeader('X-RateLimit-Limit', limit.toString());
+    res.setHeader('X-RateLimit-Remaining', remaining.toString());
+    res.setHeader('X-RateLimit-Reset', reset.toString());
+    return res.status(429).json({ error: 'Too many requests. Please slow down.' });
   }
 
   try {
     // 2. Parse the text arriving from your React frontend
-    const { text } = await req.json();
-    
+    const { text } = req.body ?? {};
+
     if (!text) {
-      return new Response(JSON.stringify({ error: 'Text input is required' }), { status: 400 });
+      return res.status(400).json({ error: 'Text input is required' });
     }
 
     // 3. Grab credentials securely from your Vercel Environment Variables
-    const MODAL_URL = process.env.MODAL_ENDPOINT_URL; 
+    const MODAL_URL = process.env.MODAL_ENDPOINT_URL;
     const MODAL_API_KEY = process.env.API_KEY;
 
     if (!MODAL_URL || !MODAL_API_KEY) {
-      return new Response(JSON.stringify({ error: 'Modal credentials are not properly configured' }), { status: 500 });
+      return res.status(500).json({ error: 'Modal credentials are not properly configured' });
     }
 
     console.log(`Forwarding text to Modal: ${text}`);
@@ -63,7 +54,7 @@ export default async function handler(req: Request): Promise<Response> {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${MODAL_API_KEY}` 
+        'Authorization': `Bearer ${MODAL_API_KEY}`
       },
       body: JSON.stringify({ text: text }),
     });
@@ -77,15 +68,9 @@ export default async function handler(req: Request): Promise<Response> {
     const predictionData = await modalResponse.json();
 
     // 5. Send the BERT prediction back to the React client
-    return new Response(JSON.stringify(predictionData), {
-      status: 200,
-      headers: { 'Content-Type': 'application/json' },
-    });
+    return res.status(200).json(predictionData);
 
   } catch (error: any) {
-    return new Response(JSON.stringify({ error: error.message }), {
-      status: 500,
-      headers: { 'Content-Type': 'application/json' },
-    });
+    return res.status(500).json({ error: error.message });
   }
 }
