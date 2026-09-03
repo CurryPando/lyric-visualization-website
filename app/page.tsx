@@ -1,5 +1,5 @@
 'use client';
-import React, { useState } from 'react';
+import React, { useRef, useState } from 'react';
 import PredictionResult from '@/app/components/prediction-result';
 
 type Prediction = {
@@ -12,11 +12,24 @@ export default function Predictor() {
   const [prediction, setPrediction] = useState<Prediction | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [showColdStartWarning, setShowColdStartWarning] = useState(false);
+  const hasSubmittedRef = useRef(false);
 
   const handleSubmit = async (e: React.SubmitEvent<HTMLFormElement>) => {
     e.preventDefault();
     if (!inputText.trim()) return;
 
+    // Warn only before the first request, since later ones skip the cold start.
+    if (!hasSubmittedRef.current) {
+      setShowColdStartWarning(true);
+      return;
+    }
+
+    await runPrediction();
+  };
+
+  const runPrediction = async () => {
+    hasSubmittedRef.current = true;
     setLoading(true);
     setError(null);
     setPrediction(null);
@@ -74,8 +87,11 @@ export default function Predictor() {
         <button
           type="submit"
           disabled={loading || !inputText.trim()}
-          className="inline-flex items-center justify-center rounded-sm bg-accent px-6 py-3 text-sm font-semibold text-white transition hover:opacity-90 disabled:cursor-not-allowed disabled:opacity-40"
+          className="inline-flex items-center justify-center gap-3 rounded-sm bg-accent px-6 py-3 text-sm font-semibold text-white transition hover:opacity-90 disabled:cursor-not-allowed disabled:opacity-40"
         >
+          {loading && (
+            <span className="h-4 w-4 animate-spin rounded-full border-2 border-white/40 border-t-white" />
+          )}
           {loading ? 'Running Inference...' : 'Analyze Text'}
         </button>
       </form>
@@ -83,6 +99,13 @@ export default function Predictor() {
       {error && (
         <div className="mt-6 rounded-md border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">
           <strong>Error:</strong> {error}
+        </div>
+      )}
+
+      {loading && (
+        <div className="mt-6 flex items-center gap-3 rounded-md border border-black/10 bg-black/5 px-4 py-3 text-sm text-black/65">
+          <span className="h-4 w-4 animate-spin rounded-full border-2 border-black/20 border-t-accent" />
+          Running inference&mdash; this can take up to 30 seconds on a cold start.
         </div>
       )}
         </div>
@@ -106,6 +129,42 @@ export default function Predictor() {
             predictedClass={prediction.predicted_class}
             confidenceScores={prediction.confidence_scores}
           />
+        </div>
+      )}
+
+      {showColdStartWarning && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 px-6">
+          <div className="w-full max-w-md rounded-md border-2 border-black/15 bg-white p-8 shadow-[0_10px_0_rgba(43,29,18,0.12)]">
+            <p className="text-xs font-semibold uppercase tracking-[0.28em] text-black/50">
+              Heads up
+            </p>
+            <h2 className="mt-3 text-2xl font-semibold tracking-tight text-black">
+              First request may be slow
+            </h2>
+            <p className="mt-3 text-sm leading-6 text-black/65">
+              The model runs on serverless GPU inference, so the first request can take up to 30
+              seconds while it cold-starts. Later requests will be much faster.
+            </p>
+            <div className="mt-6 flex justify-end gap-3">
+              <button
+                type="button"
+                onClick={() => setShowColdStartWarning(false)}
+                className="rounded-sm px-4 py-2 text-sm font-semibold text-black/60 transition hover:text-black"
+              >
+                Cancel
+              </button>
+              <button
+                type="button"
+                onClick={() => {
+                  setShowColdStartWarning(false);
+                  void runPrediction();
+                }}
+                className="inline-flex items-center justify-center rounded-sm bg-accent px-5 py-2 text-sm font-semibold text-white transition hover:opacity-90"
+              >
+                Got it, continue
+              </button>
+            </div>
+          </div>
         </div>
       )}
     </div>
